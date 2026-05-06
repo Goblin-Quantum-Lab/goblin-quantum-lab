@@ -31,13 +31,14 @@ Repository foundation phase.
 - Markdown / MDX course content later
 - Docusaurus or another free static site generator later
 - MIT for code
-- Creative Commons for course content
+- CC BY-SA 4.0 for course content
 - No paid services required for the core project
 
 ## Licensing Summary
-- Code, scripts, configuration, and lab starter files are licensed under MIT unless otherwise stated.
-- Course text, lessons, explanations, diagrams, report templates, competency tests, and educational materials are intended to use Creative Commons Attribution-ShareAlike 4.0 International unless otherwise stated.
-- See `LICENSE` and `CONTENT_LICENSE.md` for details.
+- Code, scripts, configuration, GitHub workflows, stylesheets, software examples, and lab starter files are licensed under MIT unless otherwise stated.
+- Course text, lessons, lab instructions, competency questions, report templates, diagrams, and educational documentation are licensed under Creative Commons Attribution-ShareAlike 4.0 International unless otherwise stated.
+- Goblin Quantum Lab names, logos, emblems, and brand assets are identity materials covered by the project brand usage policy. They may not be used to impersonate the project or imply endorsement.
+- See `LICENSE_POLICY.md`, `LICENSE`, `CONTENT_LICENSE.md`, and `docs/BRAND_USAGE.md` for details.
 
 ## Repository Architecture
 

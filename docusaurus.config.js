@@ -142,7 +142,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Free and open-source education project. Licensed under MIT (code) and CC BY-SA 4.0 (content).`,
+        copyright: `Code licensed MIT. Educational content licensed CC BY-SA 4.0. Brand assets protected by project brand usage policy.`,
       },
       prism: {
         theme: prismThemes.github,
