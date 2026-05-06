@@ -17,6 +17,13 @@ const sidebars = {
     "intro",
     {
       type: "category",
+      label: "Academy Architecture",
+      items: [
+        "academy-architecture/index",
+      ],
+    },
+    {
+      type: "category",
       label: "Learning Pathways",
       items: [
         "learning-pathways/index",

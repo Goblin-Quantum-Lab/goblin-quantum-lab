@@ -1,0 +1,27 @@
+{
+  "id": "academy-architecture/index",
+  "title": "Goblin Quantum Lab Repository Architecture",
+  "description": "Goblin Quantum Lab operates on a three-repository architecture designed to maintain clear separation of concerns, ensure assessment integrity, and protect learner privacy. This document explains the role of each repository and how they work together.",
+  "source": "@site/docs/academy-architecture/index.md",
+  "sourceDirName": "academy-architecture",
+  "slug": "/academy-architecture/",
+  "permalink": "/goblin-quantum-lab/docs/academy-architecture/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/academy-architecture/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Goblin Quantum Lab",
+    "permalink": "/goblin-quantum-lab/docs/intro"
+  },
+  "next": {
+    "title": "Learning Pathways Overview",
+    "permalink": "/goblin-quantum-lab/docs/learning-pathways/"
+  }
+}

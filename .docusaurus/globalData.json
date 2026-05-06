@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "academy-architecture/index",
+              "path": "/goblin-quantum-lab/docs/academy-architecture/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "assessments/index",
               "path": "/goblin-quantum-lab/docs/assessments/",
               "sidebar": "tutorialSidebar"

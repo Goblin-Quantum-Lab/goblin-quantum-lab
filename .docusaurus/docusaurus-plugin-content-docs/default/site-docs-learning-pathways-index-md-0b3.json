@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction to Goblin Quantum Lab",
-    "permalink": "/goblin-quantum-lab/docs/intro"
+    "title": "Goblin Quantum Lab Repository Architecture",
+    "permalink": "/goblin-quantum-lab/docs/academy-architecture/"
   },
   "next": {
     "title": "Quantum Foundations Overview",

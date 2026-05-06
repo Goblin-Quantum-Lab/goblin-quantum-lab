@@ -39,5 +39,16 @@ Repository foundation phase.
 - Course text, lessons, explanations, diagrams, report templates, competency tests, and educational materials are intended to use Creative Commons Attribution-ShareAlike 4.0 International unless otherwise stated.
 - See `LICENSE` and `CONTENT_LICENSE.md` for details.
 
+## Repository Architecture
+
+Goblin Quantum Lab operates on a three-repository architecture to maintain clear separation of concerns and protect assessment integrity:
+
+- **goblin-quantum-lab**: Public site and coursework (this repository)
+- **gql-private-assessment**: Private assessment integrity layer (answer keys, hidden tests, grading logic)
+- **gql-academy-operations**: Private operations and learner record layer (submission tracking, badge records)
+
+For a detailed explanation of the architecture, see [Academy Architecture](/docs/academy-architecture) in the documentation.
+
 ## Contributing Summary
+
 Contributions should be educational, accurate, beginner-aware, and public-safe. Avoid hype, unsupported quantum claims, and misleading statements. Prefer clear explanations, reproducible examples, and safe lab design. All contributions must follow the project boundary and licensing rules. See `CONTRIBUTING.md` for more details.

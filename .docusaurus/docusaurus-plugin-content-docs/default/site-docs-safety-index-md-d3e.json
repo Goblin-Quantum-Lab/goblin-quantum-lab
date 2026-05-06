@@ -1,7 +1,7 @@
 {
   "id": "safety/index",
-  "title": "Safety Overview",
-  "description": "This is the overview page for Safety and main safety page.",
+  "title": "Safety and Experiment Discipline",
+  "description": "Welcome to the Safety section of Goblin Quantum Lab. This section is dedicated to ensuring that all learners and contributors maintain safe, ethical, and disciplined practices in their quantum computing work.",
   "source": "@site/docs/safety/index.md",
   "sourceDirName": "safety",
   "slug": "/safety/",

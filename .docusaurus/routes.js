@@ -4,16 +4,22 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/goblin-quantum-lab/docs',
-    component: ComponentCreator('/goblin-quantum-lab/docs', '194'),
+    component: ComponentCreator('/goblin-quantum-lab/docs', 'e0a'),
     routes: [
       {
         path: '/goblin-quantum-lab/docs',
-        component: ComponentCreator('/goblin-quantum-lab/docs', '53a'),
+        component: ComponentCreator('/goblin-quantum-lab/docs', '7b2'),
         routes: [
           {
             path: '/goblin-quantum-lab/docs',
-            component: ComponentCreator('/goblin-quantum-lab/docs', 'fdf'),
+            component: ComponentCreator('/goblin-quantum-lab/docs', 'ad3'),
             routes: [
+              {
+                path: '/goblin-quantum-lab/docs/academy-architecture/',
+                component: ComponentCreator('/goblin-quantum-lab/docs/academy-architecture/', '92f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/goblin-quantum-lab/docs/assessments/',
                 component: ComponentCreator('/goblin-quantum-lab/docs/assessments/', '6fc'),

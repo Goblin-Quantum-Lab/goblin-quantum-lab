@@ -6,6 +6,7 @@ export default {
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   "2ce7717e": [() => import(/* webpackChunkName: "2ce7717e" */ "@site/docs/report-writing/tips.md"), "@site/docs/report-writing/tips.md", require.resolveWeak("@site/docs/report-writing/tips.md")],
   "322b191d": [() => import(/* webpackChunkName: "322b191d" */ "@generated/docusaurus-plugin-content-docs/default/p/goblin-quantum-lab-docs-74b.json"), "@generated/docusaurus-plugin-content-docs/default/p/goblin-quantum-lab-docs-74b.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/goblin-quantum-lab-docs-74b.json")],
+  "469bf053": [() => import(/* webpackChunkName: "469bf053" */ "@site/docs/academy-architecture/index.md"), "@site/docs/academy-architecture/index.md", require.resolveWeak("@site/docs/academy-architecture/index.md")],
   "4a96d700": [() => import(/* webpackChunkName: "4a96d700" */ "@site/docs/safety/conduct.md"), "@site/docs/safety/conduct.md", require.resolveWeak("@site/docs/safety/conduct.md")],
   "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
   "5e9f5e1a": [() => import(/* webpackChunkName: "5e9f5e1a" */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],

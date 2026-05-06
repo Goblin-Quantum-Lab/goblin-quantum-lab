@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Learning Pathways Overview",
-    "permalink": "/goblin-quantum-lab/docs/learning-pathways/"
+    "title": "Goblin Quantum Lab Repository Architecture",
+    "permalink": "/goblin-quantum-lab/docs/academy-architecture/"
   }
 }

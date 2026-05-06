@@ -1,7 +1,7 @@
 {
   "id": "assessments/index",
-  "title": "Assessments Overview",
-  "description": "This is the overview page for Assessments.",
+  "title": "Assessments",
+  "description": "Welcome to the Assessments section of Goblin Quantum Lab. This section provides information about how we evaluate learning and maintain assessment integrity.",
   "source": "@site/docs/assessments/index.md",
   "sourceDirName": "assessments",
   "slug": "/assessments/",
