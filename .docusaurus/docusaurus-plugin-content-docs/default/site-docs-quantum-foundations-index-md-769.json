@@ -1,0 +1,27 @@
+{
+  "id": "quantum-foundations/index",
+  "title": "Quantum Foundations",
+  "description": "Welcome to the Quantum Foundations pathway. This section covers the fundamental principles of quantum mechanics and quantum computing, providing the theoretical foundation for all subsequent learning.",
+  "source": "@site/docs/quantum-foundations/index.md",
+  "sourceDirName": "quantum-foundations",
+  "slug": "/quantum-foundations/",
+  "permalink": "/goblin-quantum-lab/docs/quantum-foundations/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/quantum-foundations/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Learning Pathways",
+    "permalink": "/goblin-quantum-lab/docs/learning-pathways/"
+  },
+  "next": {
+    "title": "Practical Labs",
+    "permalink": "/goblin-quantum-lab/docs/labs/"
+  }
+}

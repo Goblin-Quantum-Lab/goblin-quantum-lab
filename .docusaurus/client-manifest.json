@@ -1,0 +1,321 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "436": [
+      436
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0b3e3034": [
+      917
+    ],
+    "0e384e19": [
+      976
+    ],
+    "322b191d": [
+      845
+    ],
+    "47079ab4": [
+      775
+    ],
+    "49a14373": [
+      857
+    ],
+    "4c2fa703": [
+      703
+    ],
+    "5e95c892": [
+      647
+    ],
+    "76930f31": [
+      626
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b6fd2df0": [
+      609
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "ce12a471": [
+      337
+    ],
+    "d3e0357c": [
+      549
+    ],
+    "eb1b2963": [
+      781
+    ],
+    "f0b1b000": [
+      900
+    ],
+    "f97451af": [
+      446
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      634,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.8a7cb17f.js",
+          "hash": "acd3510b84cdb42a",
+          "publicPath": "/goblin-quantum-lab/assets/js/a94703ab.8a7cb17f.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.ba7b0fcd.js",
+          "hash": "0460a8144858dc7c",
+          "publicPath": "/goblin-quantum-lab/assets/js/a7bd4aaa.ba7b0fcd.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.57ebdfd2.js",
+          "hash": "5c42c2c47861d6e6",
+          "publicPath": "/goblin-quantum-lab/assets/js/a7456010.57ebdfd2.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.9bb53e4d.js",
+          "hash": "0c401ed8b414a279",
+          "publicPath": "/goblin-quantum-lab/assets/js/237.9bb53e4d.js"
+        }
+      ]
+    },
+    "337": {
+      "js": [
+        {
+          "file": "assets/js/ce12a471.436e331e.js",
+          "hash": "a99afa9cac7a74f3",
+          "publicPath": "/goblin-quantum-lab/assets/js/ce12a471.436e331e.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.770ac138.js",
+          "hash": "ab91a131f72649e1",
+          "publicPath": "/goblin-quantum-lab/assets/js/runtime~main.770ac138.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.16f2ed17.js",
+          "hash": "5567063e8f15b5c5",
+          "publicPath": "/goblin-quantum-lab/assets/js/17896441.16f2ed17.js"
+        }
+      ]
+    },
+    "436": {
+      "js": [
+        {
+          "file": "assets/js/436.5d80165a.js",
+          "hash": "276d111e9ca2e7c7",
+          "publicPath": "/goblin-quantum-lab/assets/js/436.5d80165a.js"
+        }
+      ]
+    },
+    "446": {
+      "js": [
+        {
+          "file": "assets/js/f97451af.687efcd1.js",
+          "hash": "4605f816ab73fe8a",
+          "publicPath": "/goblin-quantum-lab/assets/js/f97451af.687efcd1.js"
+        }
+      ]
+    },
+    "549": {
+      "js": [
+        {
+          "file": "assets/js/d3e0357c.db42c7a7.js",
+          "hash": "8627c14c406e54ef",
+          "publicPath": "/goblin-quantum-lab/assets/js/d3e0357c.db42c7a7.js"
+        }
+      ]
+    },
+    "609": {
+      "js": [
+        {
+          "file": "assets/js/b6fd2df0.a09de75f.js",
+          "hash": "25f149550ae0d04e",
+          "publicPath": "/goblin-quantum-lab/assets/js/b6fd2df0.a09de75f.js"
+        }
+      ]
+    },
+    "626": {
+      "js": [
+        {
+          "file": "assets/js/76930f31.3359648f.js",
+          "hash": "0e2a73a282cc5751",
+          "publicPath": "/goblin-quantum-lab/assets/js/76930f31.3359648f.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.bcf36982.js",
+          "hash": "8048fe2dba170f98",
+          "publicPath": "/goblin-quantum-lab/assets/js/c4f5d8e4.bcf36982.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.fe671dfd.js",
+          "hash": "e988b844638042ca",
+          "publicPath": "/goblin-quantum-lab/assets/js/5e95c892.fe671dfd.js"
+        }
+      ]
+    },
+    "703": {
+      "js": [
+        {
+          "file": "assets/js/4c2fa703.1f8bd415.js",
+          "hash": "2b5c7bfee6c9babe",
+          "publicPath": "/goblin-quantum-lab/assets/js/4c2fa703.1f8bd415.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.bee19cd5.js",
+          "hash": "dbfcd41e15787ad4",
+          "publicPath": "/goblin-quantum-lab/assets/js/aba21aa0.bee19cd5.js"
+        }
+      ]
+    },
+    "775": {
+      "js": [
+        {
+          "file": "assets/js/47079ab4.0d0e73cb.js",
+          "hash": "b13236afc622b261",
+          "publicPath": "/goblin-quantum-lab/assets/js/47079ab4.0d0e73cb.js"
+        }
+      ]
+    },
+    "781": {
+      "js": [
+        {
+          "file": "assets/js/eb1b2963.3cd1d0ba.js",
+          "hash": "9dab3073726431f1",
+          "publicPath": "/goblin-quantum-lab/assets/js/eb1b2963.3cd1d0ba.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.70d2f707.js",
+          "hash": "cdd524d00394f52b",
+          "publicPath": "/goblin-quantum-lab/assets/js/main.70d2f707.js"
+        }
+      ]
+    },
+    "845": {
+      "js": [
+        {
+          "file": "assets/js/322b191d.54009114.js",
+          "hash": "c833651ebcb00b7b",
+          "publicPath": "/goblin-quantum-lab/assets/js/322b191d.54009114.js"
+        }
+      ]
+    },
+    "857": {
+      "js": [
+        {
+          "file": "assets/js/49a14373.31bdc934.js",
+          "hash": "f3c54d9e31d0edd4",
+          "publicPath": "/goblin-quantum-lab/assets/js/49a14373.31bdc934.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.89426db4.css",
+          "hash": "e9beb0e8ede44311",
+          "publicPath": "/goblin-quantum-lab/assets/css/styles.89426db4.css"
+        }
+      ]
+    },
+    "900": {
+      "js": [
+        {
+          "file": "assets/js/f0b1b000.ca4edf65.js",
+          "hash": "75e8039f1a672410",
+          "publicPath": "/goblin-quantum-lab/assets/js/f0b1b000.ca4edf65.js"
+        }
+      ]
+    },
+    "917": {
+      "js": [
+        {
+          "file": "assets/js/0b3e3034.7de29f97.js",
+          "hash": "886f37d8e07376a6",
+          "publicPath": "/goblin-quantum-lab/assets/js/0b3e3034.7de29f97.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.eb38bac1.js",
+          "hash": "16c9f208d1b189e6",
+          "publicPath": "/goblin-quantum-lab/assets/js/0e384e19.eb38bac1.js"
+        }
+      ]
+    }
+  }
+}

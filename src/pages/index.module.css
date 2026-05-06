@@ -1,0 +1,123 @@
+.heroBanner {
+  padding: 2rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #001f3f 0%, #003d7a 100%);
+}
+
+.heroBanner h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.heroBanner p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.buttons .button {
+  background-color: #20c997;
+  border-color: #20c997;
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.buttons .button:hover {
+  background-color: #1aa179;
+  border-color: #1aa179;
+  transform: translateY(-2px);
+}
+
+.features {
+  padding: 4rem 0;
+  background-color: #f8f9fa;
+}
+
+.feature {
+  padding: 1rem;
+}
+
+.featureCard {
+  padding: 2rem;
+  background: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.featureCard:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transform: translateY(-4px);
+}
+
+.featureCard h3 {
+  color: #001f3f;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.featureCard p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.info {
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.infoContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.infoContent h2 {
+  color: #001f3f;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+
+.infoContent p {
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+.disclaimer {
+  background-color: #f0f7ff;
+  border-left: 4px solid #20c997;
+  padding: 1.5rem;
+  border-radius: 0.25rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .heroBanner h1 {
+    font-size: 2rem;
+  }
+
+  .heroBanner p {
+    font-size: 1rem;
+  }
+
+  .buttons {
+    flex-direction: column;
+  }
+
+  .buttons .button {
+    width: 100%;
+  }
+}
