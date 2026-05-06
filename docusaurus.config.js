@@ -129,7 +129,7 @@ const config = {
               },
               {
                 label: 'Policies',
-                to: '/docs/BRAND_USAGE',
+                to: '/docs/policies/trademark-and-brand-use',
               },
             ],
           },
@@ -148,10 +148,14 @@ const config = {
                 label: 'Brand Usage',
                 to: '/docs/BRAND_USAGE',
               },
+              {
+                label: 'Trademark Policy',
+                to: '/docs/policies/trademark-and-brand-use',
+              },
             ],
           },
         ],
-        copyright: `Site code is licensed under MIT unless otherwise stated. Goblin Quantum Lab educational content, assessments, badges, logos, and branding are protected.`,
+        copyright: `Goblin Quantum Lab is independent. Third-party names are used for identification only and do not imply endorsement or affiliation. Site code may be MIT licensed where stated; educational content, assessments, badges, logos, and branding are protected.`,
       },
       prism: {
         theme: prismThemes.github,

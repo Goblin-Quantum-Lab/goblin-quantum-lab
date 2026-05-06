@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # SS-005: Complex Numbers and Quantum States
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course introduces complex numbers in the context of quantum states.

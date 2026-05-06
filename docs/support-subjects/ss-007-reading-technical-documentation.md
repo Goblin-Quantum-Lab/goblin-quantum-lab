@@ -4,6 +4,8 @@ sidebar_position: 8
 
 # SS-007: Reading Technical Documentation
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course helps learners read technical documentation with more confidence.

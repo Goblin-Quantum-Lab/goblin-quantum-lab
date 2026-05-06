@@ -26,6 +26,10 @@ Enrollment-required courses use the GitHub-account-bound learner process. Enroll
 
 Use [GitHub Account Access](/docs/enrollment/github-account-access) for the current enrollment workflow.
 
+## Third-Party Name Note
+
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.
+
 ## Protected Assessment Boundary
 
 Official assessed work is handled through the enrolled learner process. Learners must not publish assignments, tests, solutions, reviewer feedback, badge decision records, or protected course materials in public issues, pull requests, websites, repositories, or social posts.

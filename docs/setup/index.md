@@ -21,3 +21,7 @@ QF-101 is designed for no-cost local simulator work after enrollment. It does no
 Full course materials, lab files, lab instructions, assignments, tests, submission instructions, and learner-specific review instructions are released only through the enrolled learner process.
 
 Use [Course Access](/docs/course-access/public-vs-enrolled) to understand what is public, enrolled-only, and never public.
+
+## Third-Party Name Note
+
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.

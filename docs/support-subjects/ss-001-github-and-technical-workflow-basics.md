@@ -8,6 +8,8 @@ sidebar_position: 2
 
 This standalone helper course introduces GitHub workflows used by Goblin Quantum Lab learners and contributors.
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Helpful For
 
 - Opening public-safe learner issues

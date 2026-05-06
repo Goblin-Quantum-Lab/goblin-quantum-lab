@@ -8,6 +8,8 @@ sidebar_position: 3
 
 This standalone helper course introduces the Python basics most useful for beginner quantum computing labs.
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Helpful For
 
 - Running simple scripts and notebooks

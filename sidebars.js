@@ -132,6 +132,7 @@ const sidebars = {
       label: "Policies",
       items: [
         "BRAND_USAGE",
+        "policies/trademark-and-brand-use",
         "SECURITY",
       ],
     },

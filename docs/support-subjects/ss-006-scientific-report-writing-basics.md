@@ -4,6 +4,8 @@ sidebar_position: 7
 
 # SS-006: Scientific Report Writing Basics
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course introduces the structure and habits of clear scientific and technical reports.

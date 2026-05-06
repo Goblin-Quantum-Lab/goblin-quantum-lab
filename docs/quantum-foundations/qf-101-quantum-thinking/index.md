@@ -40,6 +40,8 @@ Protected course materials and assessment workflows are maintained outside the p
 - No access tokens
 - No paid services
 
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.
+
 ## Course Sequence Preview
 
 This sequence preview is public. It does not link to full course material.

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # SS-003: Probability for Quantum Measurement
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course reviews probability ideas used when interpreting quantum measurement results.

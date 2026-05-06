@@ -4,6 +4,8 @@ sidebar_position: 9
 
 # SS-008: Research Evidence and Reproducibility Basics
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course introduces evidence, reproducibility, and cautious claims in technical learning.

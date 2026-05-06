@@ -10,6 +10,8 @@ They are not part of the main learning pathways. They are not formal prerequisit
 
 Pathway courses may recommend a Support Subject as helpful preparation when a topic would make the main course easier to follow.
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Available Support Subjects
 
 - [SS-001: GitHub and Technical Workflow Basics](./ss-001-github-and-technical-workflow-basics.md)

@@ -6,6 +6,8 @@ sidebar_position: 6
 
 This page covers public-safe setup readiness issues for local beginner tooling.
 
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.
+
 ## `python` Is Not Recognized
 
 Try:

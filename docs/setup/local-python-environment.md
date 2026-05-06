@@ -6,6 +6,8 @@ sidebar_position: 2
 
 QF-101 enrolled work is designed for local beginner tooling. This page helps learners prepare Python without exposing enrolled lab files or assignment instructions.
 
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.
+
 ## Install Python
 
 Install Python 3.11 or newer from the official Python website or your operating system package manager.

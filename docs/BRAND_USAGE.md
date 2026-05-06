@@ -1,5 +1,7 @@
 # Brand Usage
 
+See also [Trademark and Brand Use Policy](/docs/policies/trademark-and-brand-use).
+
 - Goblin Quantum Lab names, logos, emblems, visual identity, and brand assets are project identity materials.
 - Others may reference Goblin Quantum Lab honestly when the reference does not imply sponsorship, approval, or official status.
 - The project name and visual identity may not be used to impersonate the project.

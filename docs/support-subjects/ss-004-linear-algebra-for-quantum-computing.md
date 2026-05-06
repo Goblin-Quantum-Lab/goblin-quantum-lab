@@ -4,6 +4,8 @@ sidebar_position: 5
 
 # SS-004: Linear Algebra for Quantum Computing
 
+Tool and platform names are used for identification and compatibility only. No endorsement or affiliation is implied.
+
 ## Overview
 
 This standalone helper course introduces linear algebra ideas that appear in later quantum computing courses.

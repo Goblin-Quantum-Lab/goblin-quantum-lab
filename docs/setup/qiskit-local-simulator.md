@@ -8,6 +8,8 @@ QF-101 does not require IBM Quantum, hardware access, cloud execution, API keys,
 
 If an enrolled course activity uses Qiskit, follow the enrolled setup instructions and keep the work local unless the course explicitly says otherwise.
 
+Operating-system names are used only to identify the relevant setup path. Goblin Quantum Lab does not use third-party OS logos in course materials unless permission or an applicable brand-use licence has been recorded.
+
 ## Local-Only Rule For QF-101
 
 - Use local simulation only.
