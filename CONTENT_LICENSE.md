@@ -1,7 +1,12 @@
 # Content License
 
-- Code, scripts, configuration, GitHub workflows, stylesheets, software examples, lab starter files, and other software materials are licensed under MIT unless otherwise stated.
-- Course text, lessons, lab instructions, competency questions, report templates, diagrams, educational documentation, and other teaching materials are licensed under Creative Commons Attribution-ShareAlike 4.0 International unless otherwise stated.
-- Goblin Quantum Lab names, logos, emblems, visual identity, and brand assets are identity materials. They may not be used to impersonate the project, imply endorsement, or create confusing official-looking uses.
+Goblin Quantum Lab uses a split licensing model.
 
-See `LICENSE_POLICY.md` for the full repository licensing structure.
+- Site source code is licensed under the MIT License unless otherwise stated.
+- Non-code educational content is excluded from the MIT License.
+- Educational and course content, course text, course structure, module sequences, slides, PDFs, lab briefs, lab instructions, assignments, tests, quizzes, assessments, badge designs, logos, images, branding, and written documentation are protected. All rights are reserved unless a specific file explicitly states otherwise.
+- Goblin Quantum Lab names, logos, emblems, visual identity, and brand assets are protected identity materials. They may not be used to impersonate the project, imply endorsement, or create confusing official-looking uses.
+
+MIT applies to source code only. It does not grant permission to copy, redistribute, republish, modify, sell, or create derivative course products from Goblin Quantum Lab educational materials, course content, assessments, badges, logos, or branding.
+
+See `LICENSE_POLICY.md`, `LICENSE`, `NOTICE.md`, and `docs/BRAND_USAGE.md` for details.

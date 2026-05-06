@@ -1,60 +1,47 @@
-# Frequently Asked Questions (FAQ)
+# Frequently Asked Questions
 
-This section addresses common questions about Goblin Quantum Lab, its mission, content, and how to get involved.
+## What Is Goblin Quantum Lab?
 
-## General Questions
+Goblin Quantum Lab is a public catalogue and learning gateway for practical quantum computing education. Support Subjects are public. QF-101 and future pathway courses are enrollment-required for full course materials and assessed work.
 
-**Q: What is Goblin Quantum Lab?**
-A: Goblin Quantum Lab is a free and open-source public education project dedicated to providing practical quantum computing education, from foundational concepts to disciplined experiment reports.
+Protected course materials and assessment workflows are maintained outside the public repository.
 
-**Q: Who is Goblin Quantum Lab for?**
-A: Our content is designed to be beginner-accessible, supporting complete beginners, developers, maths/physics students, and quantum engineers and researchers.
+## Who Is Goblin Quantum Lab For?
 
-**Q: Is Goblin Quantum Lab accredited?**
-A: No, Goblin Quantum Lab is a free public education project and is not an accredited institution. We do not offer formal certifications.
+Goblin Quantum Lab is for learners who want careful, no-hype quantum computing foundations, public support subjects, and a GitHub-account-bound route into enrolled course work.
 
-**Q: Do you offer job placement?**
-A: We focus on entry-level readiness and provide guidance for building a portfolio, but we do not guarantee job placement.
+## Is Goblin Quantum Lab Accredited?
 
-**Q: Can I get a certificate for completing courses?**
-A: We do not issue formal certificates. Future learning milestones may include local badges, but these are not verified credentials.
+No. Goblin Quantum Lab is not an accredited institution and does not issue formal certifications.
 
-## Content and Learning
+## Can I Get A Certificate?
 
-**Q: How are the learning pathways structured?**
-A: Our learning pathways are structured into Quantum Foundations, Quantum Programming, Quantum Algorithms, and Quantum Research Workflow, with supporting layers like Readiness Bridge and Advanced Extensions.
+No. Formal certificates are not issued. GQL badges are local learning milestones only, not accredited credentials, university credits, professional licences, or formal certifications.
 
-**Q: What are the prerequisites for starting?**
-A: No prior quantum knowledge is required for the first foundations course. Some later courses introduce maths gradually. Learners with prior maths/physics knowledge may move faster or use advanced extensions.
+## What Is Public?
 
-**Q: How can I practice what I learn?**
-A: We provide practical labs with hands-on experiments using quantum simulation frameworks. You can also engage in assessments to verify your understanding.
+The homepage, course catalogue, course overview pages, Support Subjects, public policies, and enrollment instructions are public.
 
-**Q: How do I join the public learner workflow?**
-A: The public site is open to everyone. To enroll, submit check-ins, ask for lab help, or request reviewed learning milestones, use a GitHub account. GitHub is the learner identity for now, so assessed work is account-bound to the account that submits it. Start with [GitHub Account Access](/docs/enrolled-learners/github-account-access) or [register as a learner](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=enrollment_request.yml).
+## What Requires Enrollment?
 
-**Q: Are advanced courses open immediately?**
-A: Public reading access stays open, but advanced assessed work may be prerequisite-gated. Maintainers may ask learners to complete earlier public courses, labs, check-ins, or milestone tasks before reviewing advanced work. Badge and completion review is manual and may take up to 30 business days.
+Full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, and learner-specific review instructions are enrolled-only.
 
-## Contribution and Community
+## What Is Never Public?
 
-**Q: How can I contribute to Goblin Quantum Lab?**
-A: We welcome contributions from educators, developers, and quantum enthusiasts. Please see our [Contributing Guide](/docs/CONTRIBUTING) for details on how to get involved.
+Answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names, and private repository URLs are never public.
 
-**Q: Where can I find the code and content?**
-A: All our code and content are hosted on GitHub: [https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab).
+## Do I Need A GitHub Account?
 
-**Q: How can I report an issue or suggest an improvement?**
-A: You can open an issue on our [GitHub repository](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues) for bugs, suggestions, or questions.
+You can read public pages without a GitHub account. You need your own GitHub account for enrollment, enrolled submissions, check-ins, badge requests, and assessed learning milestones.
 
-## Technical Questions
+## How Do I Request Enrollment?
 
-**Q: What are the recommended tools for labs?**
-A: We recommend Python 3.8+ with virtual environments, and libraries like Qiskit or Cirq. Jupyter Notebooks are also highly recommended. See the [Lab Setup Guide](/docs/labs/setup) for detailed instructions.
+Start with [GitHub Account Access](/docs/enrollment/github-account-access) or open a [Course Enrollment Request](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=course-enrollment.yml).
 
-**Q: What if I encounter a technical problem during a lab?**
-A: Check the [Lab FAQ](/docs/labs/faq) for common problems and solutions, refer to the [Lab Setup Guide](/docs/labs/setup), or seek community help via [GitHub Issues](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues).
+## Will QF-101 Cost Money?
 
----
+No. QF-101 does not require credit cards, cloud quantum hardware, IBM Pay-As-You-Go, AWS Braket, Azure Quantum, API keys, access tokens, or paid services.
 
-If you have a question not covered here, please feel free to open an issue on our [GitHub repository](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues).
+## Where Can I Ask For Help?
+
+Use public-safe GitHub Issues. Do not post sensitive personal data, passwords, API keys, access tokens, protected course materials, assignments, tests, solutions, reviewer feedback, or private account details.

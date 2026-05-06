@@ -9,42 +9,109 @@
 .heroBanner {
   position: relative;
   overflow: hidden;
-  min-height: min(92vh, 920px);
+  min-height: min(86vh, 860px);
 }
 
-.features {
-  padding: 8rem 0 4.5rem;
-  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.72) 18%, rgba(245, 248, 252, 0.92) 58%, #f5f8fc 100%);
+.catalogueIntro {
+  padding: 6rem 0 2rem;
+  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.78) 38%, rgba(245, 248, 252, 0.94) 100%);
 }
 
-.feature {
+.catalogueIntro p {
+  max-width: 920px;
+  color: #f8fafc;
+  font-size: 1.2rem;
+  line-height: 1.75;
+  margin: 0 0 1rem;
+  text-shadow: 0 2px 10px rgba(2, 8, 23, 0.55);
+}
+
+.catalogueIntro .boundaryText {
+  color: #bae6fd;
+  font-weight: 700;
+}
+
+.courseSection {
+  padding: 2.5rem 0 5rem;
+  background-color: #f5f8fc;
+}
+
+.courseColumn {
   padding: 1rem;
 }
 
-.featureCard {
+.courseCard {
   height: 100%;
-  padding: 1.75rem;
-  border: 1px solid rgba(148, 163, 184, 0.28);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.5rem;
+  border: 1px solid rgba(148, 163, 184, 0.32);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.96);
+  background: rgba(255, 255, 255, 0.97);
   box-shadow: 0 20px 44px rgba(15, 23, 42, 0.12);
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.featureCard:hover {
-  border-color: rgba(14, 165, 233, 0.48);
-  box-shadow: 0 24px 54px rgba(15, 23, 42, 0.18);
+.courseMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: space-between;
+  color: #0369a1;
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
 }
 
-.featureCard h3 {
+.courseCard h3 {
   color: #031b3f;
-  margin-bottom: 1rem;
+  margin: 0;
   font-size: 1.28rem;
 }
 
-.featureCard p {
+.courseCard dl {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.courseCard dl div {
+  display: grid;
+  grid-template-columns: minmax(120px, 0.42fr) 1fr;
+  gap: 0.75rem;
+}
+
+.courseCard dt {
+  color: #475569;
+  font-weight: 700;
+}
+
+.courseCard dd {
+  color: #0f172a;
+  margin: 0;
+}
+
+.courseCard p {
   color: #475569;
   line-height: 1.6;
+  margin: 0;
+}
+
+.courseButton {
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 0.72rem 1rem;
+  border-radius: 6px;
+  background: #0369a1;
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.courseButton:hover {
+  color: #ffffff;
+  background: #0284c7;
+  text-decoration: none;
 }
 
 .info {
@@ -78,34 +145,34 @@
   line-height: 1.6;
 }
 
-:global(html[data-theme='dark']) .features {
-  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.72) 18%, rgba(7, 21, 40, 0.94) 58%, #071528 100%);
+:global(html[data-theme='dark']) .catalogueIntro {
+  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.82) 38%, rgba(7, 21, 40, 0.96) 100%);
 }
 
-:global(html[data-theme='dark']) .featureCard {
+:global(html[data-theme='dark']) .courseSection,
+:global(html[data-theme='dark']) .info {
+  background-color: #071528;
+}
+
+:global(html[data-theme='dark']) .courseCard {
   border-color: rgba(56, 189, 248, 0.24);
   background: rgba(8, 21, 40, 0.96);
   box-shadow: 0 20px 44px rgba(0, 0, 0, 0.24);
 }
 
-:global(html[data-theme='dark']) .featureCard h3 {
-  color: #e0f2fe;
-}
-
-:global(html[data-theme='dark']) .featureCard p {
-  color: #cbd5e1;
-}
-
-:global(html[data-theme='dark']) .info {
-  background-color: #071528;
-}
-
+:global(html[data-theme='dark']) .courseCard h3,
 :global(html[data-theme='dark']) .infoContent h2 {
   color: #e0f2fe;
 }
 
+:global(html[data-theme='dark']) .courseCard dt,
+:global(html[data-theme='dark']) .courseCard p,
 :global(html[data-theme='dark']) .infoContent p {
   color: #cbd5e1;
+}
+
+:global(html[data-theme='dark']) .courseCard dd {
+  color: #f8fafc;
 }
 
 :global(html[data-theme='dark']) .disclaimer {
@@ -121,6 +188,11 @@
   }
 
   .heroBanner {
-    min-height: 720px;
+    min-height: 700px;
+  }
+
+  .courseCard dl div {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
   }
 }

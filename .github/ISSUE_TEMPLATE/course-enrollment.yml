@@ -1,0 +1,51 @@
+name: Course Enrollment Request
+description: Request access to an enrollment-required Goblin Quantum Lab course.
+title: "Course enrollment: "
+labels:
+  - course-enrollment
+  - triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Do not include passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, official solutions, protected assessment materials, or reviewer notes.
+  - type: input
+    id: github-username
+    attributes:
+      label: GitHub username
+      description: Enter the GitHub username you will use for enrolled course activity.
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: dropdown
+    id: requested-course
+    attributes:
+      label: Requested course
+      options:
+        - QF-101: Quantum Thinking
+        - Future course / prerequisite-gated course
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Enrollment confirmations
+      options:
+        - label: I am using my own GitHub account.
+          required: true
+        - label: I understand enrollment is manually reviewed and access is not instant.
+          required: true
+        - label: I understand course access may be refused, delayed, or revoked if policy is violated.
+          required: true
+        - label: I understand GQL badges are local learning milestones only.
+          required: true
+        - label: I understand official solutions, answer keys, model answers, grading logic, and reviewer notes are not public.
+          required: true
+        - label: I understand QF-101 does not require credit cards, cloud quantum hardware, API keys, or paid services.
+          required: true
+  - type: textarea
+    id: learner-note
+    attributes:
+      label: Optional learner note
+      description: Share a short public-safe note about your learning goal or readiness. Do not include sensitive information.
+      placeholder: "I would like to begin QF-101 because..."

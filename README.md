@@ -1,55 +1,52 @@
 # Goblin Quantum Lab
 
-Free practical quantum computing education, from first qubit to disciplined experiment reports.
+Open support subjects and enrollment-bound quantum course gateway.
 
-## What is Goblin Quantum Lab?
-Goblin Quantum Lab is a free and open-source public quantum computing education project. It teaches quantum computing through structured learning pathways, practical simulation labs, competency checks, report-writing tasks, and safe experiment discipline.
+## What Is Goblin Quantum Lab?
 
-## Project Goals
-Set up the repository foundation so the project can later become a live public course website. Keep the setup clean, professional, and expandable.
+Goblin Quantum Lab is a public catalogue and learning gateway for practical quantum computing education. Support Subjects are open public helper courses. QF-101 and future pathway courses are visible in the public catalogue but require enrollment for full course materials and assessed work.
 
-## Planned Learning Areas
-- Quantum Foundations
-- Quantum Programming
-- Quantum Algorithms
-- Quantum Research Workflow
-- Practical Labs
-- Competency Checks
-- Report Writing
-- Safe Experiment Discipline
+Protected course materials and assessment workflows are maintained outside the public repository.
 
-## What This Project is Not
-- It is not a university, accredited certification provider, paid LMS, or production research system.
-- Formal certificates are not currently issued.
+## Public Repository Scope
 
-## Current Status
-Repository foundation phase.
+This public repository contains:
 
-## Free/Open-Source Tool Philosophy
-- GitHub Free
-- GitHub Pages later
-- Markdown / MDX course content later
-- Docusaurus or another free static site generator later
-- MIT for code
-- CC BY-SA 4.0 for course content
-- No paid services required for the core project
+- website source code
+- public catalogue pages
+- public Support Subjects
+- public course overview pages
+- public policies
+- enrollment instructions
+
+This public repository does not contain or publish full course packs, slides, PDFs, enrolled lab files, assignments, tests, answer keys, model answers, grading logic, hidden tests, official solutions, certificates, private reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+
+## Current Public Learning Areas
+
+- [Course Catalogue](https://goblin-quantum-lab.github.io/goblin-quantum-lab/docs/course-catalogue)
+- [Support Subjects](https://goblin-quantum-lab.github.io/goblin-quantum-lab/docs/support-subjects)
+- [QF-101: Quantum Thinking overview](https://goblin-quantum-lab.github.io/goblin-quantum-lab/docs/quantum-foundations/qf-101-quantum-thinking)
+- [Course Access](https://goblin-quantum-lab.github.io/goblin-quantum-lab/docs/course-access/public-vs-enrolled)
+
+## What This Project Is Not
+
+- It is not a university, accredited certification provider, paid LMS, production research system, or official credential issuer.
+- Formal certificates are not issued.
+- Public course overview pages are not full enrolled course materials.
 
 ## Licensing Summary
-- Code, scripts, configuration, GitHub workflows, stylesheets, software examples, and lab starter files are licensed under MIT unless otherwise stated.
-- Course text, lessons, lab instructions, competency questions, report templates, diagrams, and educational documentation are licensed under Creative Commons Attribution-ShareAlike 4.0 International unless otherwise stated.
-- Goblin Quantum Lab names, logos, emblems, and brand assets are identity materials covered by the project brand usage policy. They may not be used to impersonate the project or imply endorsement.
-- See `LICENSE_POLICY.md`, `LICENSE`, `CONTENT_LICENSE.md`, and `docs/BRAND_USAGE.md` for details.
 
-## Repository Architecture
+Goblin Quantum Lab uses a split licensing model.
 
-Goblin Quantum Lab uses a separated architecture to maintain clear boundaries and protect assessment integrity:
+- Site source code is licensed under MIT unless otherwise stated.
+- Non-code educational content is excluded from the MIT License.
+- Educational and course content, assessments, badge designs, logos, images, branding, and written documentation are protected. All rights are reserved unless a specific file explicitly states otherwise.
+- See `LICENSE`, `NOTICE.md`, `LICENSE_POLICY.md`, `CONTENT_LICENSE.md`, and `docs/BRAND_USAGE.md` for details.
 
-- **Public site and coursework**: This repository
-- **Protected assessment layer**: Sensitive assessment and official review materials
-- **Protected operations layer**: Learner records, submission tracking, and badge records
-
-For a detailed explanation of the architecture, see [Academy Architecture](/docs/academy-architecture) in the documentation.
+MIT applies to source code only. It does not grant permission to copy, redistribute, republish, modify, sell, or create derivative course products from Goblin Quantum Lab educational materials, course content, assessments, badges, logos, or branding.
 
 ## Contributing Summary
 
-Contributions should be educational, accurate, beginner-aware, and public-safe. Avoid hype, unsupported quantum claims, and misleading statements. Prefer clear explanations, reproducible examples, and safe lab design. All contributions must follow the project boundary and licensing rules. See `CONTRIBUTING.md` for more details.
+Contributions should be public-safe, educational, accurate, beginner-aware, and consistent with the public catalogue boundary. Do not contribute protected course materials, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, credentials, tokens, or private workflow details.
+
+See `docs/CONTRIBUTING.md` for more details.

@@ -4,14 +4,12 @@ Quantum Foundations introduces the concepts learners need before moving into dee
 
 ## Available Courses
 
-### [QF-101: Quantum Thinking](./qf-101-quantum-thinking/)
+| Course code | Course title | Level | Status | Access type | Short public description | Required account | Button text |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QF-101 | Quantum Thinking | Beginner | Enrollment Required | GitHub-account-bound enrolled course | QF-101 introduces beginner quantum experiment literacy: qubits, measurement, probability, shots, counts, simulator discipline, and careful reporting. Full course materials are released only through the enrolled learner process. | GitHub account | [View enrollment overview](./qf-101-quantum-thinking/) |
 
-QF-101 is the first course in the Quantum Foundations pathway. It introduces bits, qubits, probability, measurement, superposition, shot counts, and careful result interpretation.
+## Public Boundary
 
-Course level: Foundational / Beginner
+This page is a course catalogue. It does not publish full lessons, lab files, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
 
-Estimated time: 4-6 hours
-
-Prerequisites: None
-
-Start here if you are new to quantum computing or want a careful beginner reset before attempting labs and competency checks.
+Support Subjects remain open and public: [Support Subjects](/docs/support-subjects).

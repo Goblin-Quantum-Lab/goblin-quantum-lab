@@ -1,0 +1,31 @@
+---
+sidebar_position: 1
+---
+
+# Public vs Enrolled Access
+
+Goblin Quantum Lab separates open public learning support from enrollment-required course delivery.
+
+Protected course materials and assessment workflows are maintained outside the public repository.
+
+| Access level | Includes |
+| --- | --- |
+| Public | homepage, course catalogue, course overview pages, Support Subjects, public policies, enrollment instructions |
+| Enrolled-only | full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, learner-specific review instructions |
+| Never public | answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names or URLs |
+
+## Public Course Pages
+
+Public course pages are overview pages. They may explain course goals, access requirements, general sequence, no-cost boundaries, and enrollment steps.
+
+They do not publish full enrolled course content.
+
+## Enrollment-Required Courses
+
+Enrollment-required courses use the GitHub-account-bound learner process. Enrollment is manually reviewed, access is not instant, and advanced work may be prerequisite-gated.
+
+Use [GitHub Account Access](/docs/enrollment/github-account-access) for the current enrollment workflow.
+
+## Protected Assessment Boundary
+
+Official assessed work is handled through the enrolled learner process. Learners must not publish assignments, tests, solutions, reviewer feedback, badge decision records, or protected course materials in public issues, pull requests, websites, repositories, or social posts.

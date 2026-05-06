@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Beginner Lab Report Template
 
-Use this template for QF-101 beginner observation reports. It is designed for short public-safe reports about simple quantum experiments.
+This public page is a report-structure overview for beginner observation writing. Enrolled course-specific report prompts, submission instructions, assessed work, reviewer notes, and badge decision records are not published in the public repository.
 
 Do not include credentials, secrets, API keys, private data, assessment solutions, or protected grading material.
 
@@ -97,7 +97,7 @@ What did you learn?
 Conclusion:
 ```
 
-## Public Submission Checklist
+## Public Safety Checklist
 
 - [ ] I did not include private personal data.
 - [ ] I did not include credentials, secrets, tokens, or API keys.

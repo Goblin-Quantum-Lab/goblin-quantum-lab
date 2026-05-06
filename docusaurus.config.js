@@ -81,6 +81,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/docs/course-access/public-vs-enrolled',
+            label: 'Course Access',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab',
             label: 'GitHub',
             position: 'right',
@@ -98,12 +103,16 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Learning Pathways',
-                to: '/docs/learning-pathways',
+                label: 'Course Catalogue',
+                to: '/docs/course-catalogue',
               },
               {
-                label: 'Quantum Foundations',
-                to: '/docs/quantum-foundations',
+                label: 'Support Subjects',
+                to: '/docs/support-subjects',
+              },
+              {
+                label: 'QF-101 Overview',
+                to: '/docs/quantum-foundations/qf-101-quantum-thinking',
               },
             ],
           },
@@ -111,16 +120,16 @@ const config = {
             title: 'Resources',
             items: [
               {
-                label: 'Labs',
-                to: '/docs/labs',
+                label: 'Course Access',
+                to: '/docs/course-access/public-vs-enrolled',
               },
               {
-                label: 'Assessments',
-                to: '/docs/assessments',
+                label: 'Enrollment',
+                to: '/docs/enrollment/github-account-access',
               },
               {
-                label: 'Report Writing',
-                to: '/docs/report-writing',
+                label: 'Policies',
+                to: '/docs/BRAND_USAGE',
               },
             ],
           },
@@ -142,7 +151,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Code licensed MIT. Educational content licensed CC BY-SA 4.0. Brand assets protected by project brand usage policy.`,
+        copyright: `Site code is licensed under MIT unless otherwise stated. Goblin Quantum Lab educational content, assessments, badges, logos, and branding are protected.`,
       },
       prism: {
         theme: prismThemes.github,

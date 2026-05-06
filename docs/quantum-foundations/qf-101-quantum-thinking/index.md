@@ -4,58 +4,70 @@ sidebar_position: 1
 
 # QF-101: Quantum Thinking
 
-QF-101: Quantum Thinking is the first course in the Quantum Foundations pathway. It introduces the shift from classical computing to quantum computing by exploring bits, qubits, probability, measurement, superposition, shot counts, and careful result interpretation.
+> **Enrollment Required**
 
-This course is designed for complete beginners. You do not need prior quantum computing, physics, linear algebra, or programming knowledge.
+## Course Summary
 
-## Course Level
+QF-101 is a beginner course in quantum experiment literacy. It introduces the difference between classical bits and qubits, measurement, probability, repeated shots, result counts, simulator-based experiments, and careful beginner reporting.
 
-Foundational / Beginner
+## Public Access Notice
 
-## Estimated Time
+This public page provides the course overview only. Full lesson materials, course slides, lab files, assignments, tests, and assessed work are released only through the enrolled learner process.
 
-4-6 hours
+Protected course materials and assessment workflows are maintained outside the public repository.
 
-## Prerequisites
+## Who This Course Is For
 
-None.
+- Beginners learning quantum computing for the first time
+- Learners who want practical simulator-based foundations
+- Learners who need a careful, no-hype introduction before advanced quantum work
 
-Helpful but not required:
+## What Learners Will Need
 
-- Basic arithmetic
-- Basic percentages
-- Willingness to write short explanations
+- Their own GitHub account
+- A computer capable of running local beginner tooling
+- Willingness to follow a sequenced course path
+- Willingness to submit work through the GitHub-bound learner process
 
-## Learning Outcomes
+## What Learners Will Not Need For QF-101
 
-By the end of QF-101, learners should be able to:
+- No credit card
+- No cloud quantum hardware
+- No IBM Pay-As-You-Go
+- No AWS Braket
+- No Azure Quantum
+- No API keys
+- No access tokens
+- No paid services
 
-1. Explain the difference between a classical bit and a qubit.
-2. Describe why quantum measurement produces outcomes that must be interpreted statistically.
-3. Explain superposition carefully without relying on misleading phrases.
-4. Understand why repeated shots are used in quantum experiments.
-5. Read simple measurement-result tables.
-6. Identify beginner misconceptions about quantum computing.
-7. Write a short beginner observation report.
+## Course Sequence Preview
 
-## Course Structure
+This sequence preview is public. It does not link to full course material.
 
-1. [Classical Bits and Qubits](./module-01-classical-bits-and-qubits.md)
-2. [Probability and Measurement](./module-02-probability-and-measurement.md)
-3. [Superposition](./module-03-superposition.md)
-4. [Observing Results](./module-04-observing-results.md)
-5. [Common Quantum Misconceptions](./module-05-common-quantum-misconceptions.md)
-6. [First Experiment Discipline](./module-06-first-experiment-discipline.md)
+- QF-101.1 Classical Bits and Qubits
+- QF-101.2 Probability and Measurement
+- QF-101.3 Superposition Without Hype
+- QF-101.4 Observing Results
+- QF-101.5 Common Quantum Misconceptions
+- QF-101.6 First Experiment Discipline
+- Lab 001: Single-Qubit Measurement
+- Lab 002: Shot Count Observation
+- Final competency check and report task
 
-After the modules, complete the public labs, competency check, report task, and badge criteria review:
+## Enrollment And Access
 
-- [QF-101 Labs](./labs.md)
-- [Competency Check](./competency-check.md)
-- [Report Task](./report-task.md)
-- [Badge Criteria](./badge-criteria.md)
+Learners must use their own GitHub account. Enrollment is manually reviewed, access is not instant, enrolled course access is account-bound, assessed work is GitHub-account-bound, and advanced work is prerequisite-gated.
 
-## Public Learning Boundary
+Course access may be refused, delayed, paused, or revoked if policy is violated.
 
-This public course contains student-facing learning materials only. It does not publish official solutions, sample completed responses, protected assessment checks, official grading scripts, official grading logic, private reviewer notes, learner records, or formal certificates.
+## Badge Boundary
 
-Goblin Quantum Lab badges are local learning milestones only. They are not accredited qualifications, professional licences, university credits, or externally verified credentials.
+GQL badges are local learning milestones only. They are not accredited credentials, university credits, professional licences, or formal certifications. Badge review is manual and may take up to 30 business days.
+
+## Protected Material Boundary
+
+Official solutions, answer keys, model answers, grading logic, reviewer notes, badge decision records, and private assessment workflows are never published in the public repository.
+
+## Request Enrollment
+
+[Request enrollment](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=course-enrollment.yml)

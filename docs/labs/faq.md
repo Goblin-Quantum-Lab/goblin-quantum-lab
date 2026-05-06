@@ -1,45 +1,21 @@
 # Lab FAQ
 
-Frequently asked questions about Goblin Quantum Lab practical sessions.
+## Are Full Lab Files Public?
 
-## General Questions
+No. Enrollment-required course labs are not published as full lab files in the public repository. Public pages provide overview and access information only.
 
-**Q: What software do I need for the labs?**
-A: Most labs use Python with specific quantum computing libraries like Qiskit or Cirq. Refer to the `setup.md` for detailed installation instructions.
+## Can I Still Read Lab Previews?
 
-**Q: Can I use a different quantum framework?**
-A: While we provide examples for common frameworks, you are welcome to use others if you can adapt the lab exercises.
+Yes. Public lab preview pages may show lab titles, general purpose, and access boundaries.
 
-**Q: Are there any costs associated with the labs?**
-A: No, all labs are designed to be completed using free and open-source software and cloud-based simulators.
+## Will QF-101 Cost Money?
 
-## Technical Issues
+No. QF-101 is designed for no-cost local simulator work after enrollment. Do not enter credit-card details, create AWS resources, use Amazon Braket managed notebooks, use paid QPUs, or use IBM Pay-As-You-Go for QF-101.
 
-**Q: My code isn't running. What should I do?**
-A: First, check for syntax errors. Ensure all dependencies are installed correctly. Verify your environment setup. If the problem persists, consult the `troubleshooting.md` or seek help in the community.
+## Where Do I Ask For Help?
 
-**Q: The simulation is taking too long.**
-A: Quantum simulations can be computationally intensive. Try reducing the number of qubits or circuit depth. Ensure you are running on a local simulator if possible, or check your cloud provider's resource limits.
+Use [Lab help](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml) for public-safe setup or access questions.
 
-**Q: I'm getting an error about a missing package.**
-A: Make sure you have run `npm install` (or `pip install` for Python packages) in your project directory. Check your `package.json` or `requirements.txt` for correct dependencies.
+## What Should I Avoid Posting?
 
-## Lab Content Questions
-
-**Q: I don't understand a concept in the lab.**
-A: Refer back to the relevant section in the `Quantum Foundations` pathway. You can also ask questions in the community forum or during designated help sessions.
-
-**Q: Can I suggest a new lab idea?**
-A: Absolutely! We welcome contributions. Please see our `CONTRIBUTING.md` for guidelines on submitting new lab proposals.
-
-## Reporting Issues
-
-**Q: How do I report a bug in a lab?**
-A: Please open an issue on our GitHub repository, providing a clear description of the bug, steps to reproduce it, and any error messages you received.
-
-**Q: What if I find a security vulnerability?**
-A: Please report security issues privately to the maintainers as outlined in our `SECURITY.md`.
-
----
-
-For more general questions about the project, please refer to the main [FAQ](/docs/faq).
+Do not publish assignments, tests, lab files, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, badge decision records, API keys, access tokens, secrets, or private account details.

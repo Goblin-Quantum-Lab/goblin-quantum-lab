@@ -2,15 +2,22 @@
 sidebar_position: 8
 ---
 
-# Goblin Quantum Lab Repository Architecture
+# Public Repository Architecture
 
-Goblin Quantum Lab uses a separated architecture to maintain clear boundaries between public learning materials, protected assessment materials, and internal operations.
+Goblin Quantum Lab uses a separated public-access model to protect enrolled course delivery and assessment integrity.
 
-The public site explains this architecture in general terms. It does not publish private repository URLs, internal ownership details, official solution materials, protected assessment checks, learner records, or private reviewer materials.
+The public repository contains the website source code, public catalogue pages, open Support Subjects, course overview pages, public policies, and enrollment instructions.
 
-## Core Doctrine
+Protected course materials and assessment workflows are maintained outside the public repository.
 
-```text
-Public repo = teach.
-Private assessment layer = test.
-Private operations layer = manage.
+## Public Boundary
+
+The public repository does not publish full course PDFs, full course slides, protected course packs, enrolled lab files, assignments, tests, answer keys, model answers, grading logic, hidden tests, official solutions, certificates, private reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+
+## Access Model
+
+- **Public:** homepage, course catalogue, course overview pages, Support Subjects, public policies, enrollment instructions
+- **Enrolled-only:** full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, learner-specific review instructions
+- **Never public:** answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names or URLs
+
+See [Public vs Enrolled Access](/docs/course-access/public-vs-enrolled).

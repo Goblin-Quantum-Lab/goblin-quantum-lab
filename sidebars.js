@@ -17,9 +17,25 @@ const sidebars = {
     "intro",
     {
       type: "category",
-      label: "Academy Architecture",
+      label: "Course Catalogue",
       items: [
-        "academy-architecture/index",
+        "course-catalogue/index",
+      ],
+    },
+    {
+      type: "category",
+      label: "Course Access",
+      items: [
+        "course-access/public-vs-enrolled",
+      ],
+    },
+    {
+      type: "category",
+      label: "Enrollment",
+      items: [
+        "enrollment/github-account-access",
+        "enrolled-learners/index",
+        "enrolled-learners/github-account-access",
       ],
     },
     {
@@ -46,34 +62,33 @@ const sidebars = {
     },
     {
       type: "category",
-      label: "Enrolled Learners",
+      label: "Quantum Foundations",
       items: [
-        "enrolled-learners/index",
-        "enrolled-learners/github-account-access",
+        "quantum-foundations/index",
+        "quantum-foundations/qf-101-quantum-thinking/index",
       ],
     },
     {
       type: "category",
-      label: "Quantum Foundations",
+      label: "Setup",
       items: [
-        "quantum-foundations/index",
-        {
-          type: "category",
-          label: "QF-101 Quantum Thinking",
-          items: [
-            "quantum-foundations/qf-101-quantum-thinking/index",
-            "quantum-foundations/qf-101-quantum-thinking/module-01-classical-bits-and-qubits",
-            "quantum-foundations/qf-101-quantum-thinking/module-02-probability-and-measurement",
-            "quantum-foundations/qf-101-quantum-thinking/module-03-superposition",
-            "quantum-foundations/qf-101-quantum-thinking/module-04-observing-results",
-            "quantum-foundations/qf-101-quantum-thinking/module-05-common-quantum-misconceptions",
-            "quantum-foundations/qf-101-quantum-thinking/module-06-first-experiment-discipline",
-            "quantum-foundations/qf-101-quantum-thinking/labs",
-            "quantum-foundations/qf-101-quantum-thinking/competency-check",
-            "quantum-foundations/qf-101-quantum-thinking/report-task",
-            "quantum-foundations/qf-101-quantum-thinking/badge-criteria",
-          ],
-        },
+        "setup/index",
+        "setup/local-python-environment",
+        "setup/qiskit-local-simulator",
+        "setup/no-cost-learning-rules",
+        "setup/github-classroom-student-guide",
+        "setup/troubleshooting",
+      ],
+    },
+    {
+      type: "category",
+      label: "Q&A",
+      items: [
+        "qa/index",
+        "qa/setup-faq",
+        "qa/lab-faq",
+        "qa/github-faq",
+        "qa/cost-safety-faq",
       ],
     },
     {
@@ -81,14 +96,6 @@ const sidebars = {
       label: "Labs",
       items: [
         "labs/index",
-        {
-          type: "category",
-          label: "Beginner Labs",
-          items: [
-            "labs/beginner/lab-001-single-qubit-measurement",
-            "labs/beginner/lab-002-shot-count-observation",
-          ],
-        },
         "labs/faq",
         "labs/setup",
       ],
@@ -120,10 +127,16 @@ const sidebars = {
         "safety/reproducibility",
       ],
     },
+    {
+      type: "category",
+      label: "Policies",
+      items: [
+        "BRAND_USAGE",
+        "SECURITY",
+      ],
+    },
     "CODE_OF_CONDUCT",
     "CONTRIBUTING",
-    "BRAND_USAGE",
-    "SECURITY",
     "faq",
   ],
 };

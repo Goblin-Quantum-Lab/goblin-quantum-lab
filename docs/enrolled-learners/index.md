@@ -8,9 +8,9 @@ Goblin Quantum Lab uses GitHub-native tools for public learner support. Enrollme
 
 This workflow is for public learning coordination. It is not a formal credential, transcript, gradebook, or private learner record.
 
-The public site is open to everyone. Learners who want enrollment, submissions, check-ins, lab help, badge review, or assessed learning milestones need a GitHub account because GitHub is the learner identity for the public workflow. Assessed work is account-bound to the GitHub account that submits it, and advanced work may be prerequisite-gated.
+The public site is open to everyone. Support Subjects remain public. Course pages for QF-101 and future pathway courses are public overviews only. Learners who want enrollment, submissions, check-ins, lab help, badge review, or assessed learning milestones need a GitHub account because GitHub is the learner identity for the public workflow. Assessed work is account-bound to the GitHub account that submits it, and advanced work may be prerequisite-gated.
 
-See [GitHub Account Access](/docs/enrolled-learners/github-account-access) for the account-bound workflow and direct action links.
+See [GitHub Account Access](/docs/enrollment/github-account-access) for the account-bound workflow and direct action links.
 
 ## Public-Safe Principles
 
@@ -32,6 +32,8 @@ See [GitHub Account Access](/docs/enrolled-learners/github-account-access) for t
 7. Use [Learner check-in](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=learner_check_in.yml) issues to share public-safe progress.
 
 Badge and completion review is manual and may take up to 30 business days.
+
+QF-101 learners should also read [Course Access](/docs/course-access/public-vs-enrolled), [Local Python Environment](/docs/setup/local-python-environment), [No-Cost Learning Rules](/docs/setup/no-cost-learning-rules), and the [Q&A section](/docs/qa) before asking for setup help.
 
 ## Issue Types
 
