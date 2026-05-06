@@ -49,6 +49,7 @@ const sidebars = {
       label: "Enrolled Learners",
       items: [
         "enrolled-learners/index",
+        "enrolled-learners/github-account-access",
       ],
     },
     {

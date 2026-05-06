@@ -31,7 +31,10 @@ A: No prior quantum knowledge is required for the first foundations course. Some
 A: We provide practical labs with hands-on experiments using quantum simulation frameworks. You can also engage in assessments to verify your understanding.
 
 **Q: How do I join the public learner workflow?**
-A: Use the [Enrolled Learner Workflow](/docs/enrolled-learners) to open a GitHub issue, choose a starting point, and receive public-safe guidance from maintainers.
+A: The public site is open to everyone. To enroll, submit check-ins, ask for lab help, or request reviewed learning milestones, use a GitHub account. GitHub is the learner identity for now, so assessed work is account-bound to the account that submits it. Start with [GitHub Account Access](/docs/enrolled-learners/github-account-access) or [register as a learner](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=enrollment_request.yml).
+
+**Q: Are advanced courses open immediately?**
+A: Public reading access stays open, but advanced assessed work may be prerequisite-gated. Maintainers may ask learners to complete earlier public courses, labs, check-ins, or milestone tasks before reviewing advanced work. Badge and completion review is manual and may take up to 30 business days.
 
 ## Contribution and Community
 

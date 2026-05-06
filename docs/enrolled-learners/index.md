@@ -8,30 +8,38 @@ Goblin Quantum Lab uses GitHub-native tools for public learner support. Enrollme
 
 This workflow is for public learning coordination. It is not a formal credential, transcript, gradebook, or private learner record.
 
+The public site is open to everyone. Learners who want enrollment, submissions, check-ins, lab help, badge review, or assessed learning milestones need a GitHub account because GitHub is the learner identity for the public workflow. Assessed work is account-bound to the GitHub account that submits it, and advanced work may be prerequisite-gated.
+
+See [GitHub Account Access](/docs/enrolled-learners/github-account-access) for the account-bound workflow and direct action links.
+
 ## Public-Safe Principles
 
 - Share only information you are comfortable posting publicly.
 - Use your GitHub username, not legal names, school IDs, private email addresses, or private contact details.
-- Do not post credentials, secrets, API keys, tokens, or private file paths.
-- Do not post assessment solutions, protected grading material, or private reviewer notes.
+- GitHub Issues are public.
+- Do not post sensitive personal data, credentials, secrets, API keys, tokens, or private file paths.
+- Do not post official solutions, protected assessment materials, or private reviewer notes.
 - Keep questions focused on learning, setup, public documentation, and reproducible lab issues.
 
 ## Learner Path
 
-1. Create a GitHub account or sign in to your existing account.
-2. Open an **Enrolled learner request** issue.
+1. [Create a GitHub account](https://github.com/signup) or sign in to your existing account.
+2. Open an [Enrolled learner request](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=enrollment_request.yml) issue.
 3. Choose your starting point: foundations, labs, report writing, assessment readiness, or "not sure yet".
 4. Wait for a maintainer response on the issue.
 5. Follow the suggested public docs and open check-ins as you make progress.
-6. Use **Lab help** issues for setup or troubleshooting questions.
+6. Use [Lab help](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml) issues for setup or troubleshooting questions.
+7. Use [Learner check-in](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=learner_check_in.yml) issues to share public-safe progress.
+
+Badge and completion review is manual and may take up to 30 business days.
 
 ## Issue Types
 
 | Issue form | Use it for |
 | --- | --- |
-| Enrolled learner request | Joining the public learner workflow and choosing a starting point. |
-| Learner check-in | Sharing public-safe progress, blockers, and next steps. |
-| Lab help | Asking for reproducible help with setup, tooling, docs, or lab instructions. |
+| [Enrolled learner request](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=enrollment_request.yml) | Joining the public learner workflow and choosing a starting point. |
+| [Learner check-in](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=learner_check_in.yml) | Sharing public-safe progress, blockers, and next steps. |
+| [Lab help](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml) | Asking for reproducible help with setup, tooling, docs, or lab instructions. |
 
 ## Maintainer Triage
 
@@ -65,4 +73,4 @@ Do not use public GitHub issues for private data, confidential review, protected
 
 ## Start Here
 
-Open a new issue from the repository's [issue chooser](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new/choose) and select **Enrolled learner request**.
+Open a new issue from the repository's [issue chooser](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new/choose) and select **Enrolled learner request**, or use the direct [learner registration form](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=enrollment_request.yml).
