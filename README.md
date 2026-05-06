@@ -41,11 +41,11 @@ Repository foundation phase.
 
 ## Repository Architecture
 
-Goblin Quantum Lab operates on a three-repository architecture to maintain clear separation of concerns and protect assessment integrity:
+Goblin Quantum Lab uses a separated architecture to maintain clear boundaries and protect assessment integrity:
 
-- **goblin-quantum-lab**: Public site and coursework (this repository)
-- **gql-private-assessment**: Private assessment integrity layer (answer keys, hidden tests, grading logic)
-- **gql-academy-operations**: Private operations and learner record layer (submission tracking, badge records)
+- **Public site and coursework**: This repository
+- **Protected assessment layer**: Sensitive assessment and official review materials
+- **Protected operations layer**: Learner records, submission tracking, and badge records
 
 For a detailed explanation of the architecture, see [Academy Architecture](/docs/academy-architecture) in the documentation.
 

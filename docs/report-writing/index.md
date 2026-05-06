@@ -64,6 +64,7 @@ Report all results accurately, including any negative findings. Acknowledge limi
 
 We provide various templates to assist with different types of reports:
 
+- **[Beginner Lab Report Template](/docs/report-writing/beginner-lab-report-template)**: For QF-101 and other beginner observation reports.
 - **Lab Report Template**: For experimental work.
 - **Algorithm Implementation Report**: For coding projects.
 - **Literature Review Template**: For research summaries.

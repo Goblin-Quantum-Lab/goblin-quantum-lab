@@ -10,13 +10,13 @@ This project is not a university, accredited certification provider, paid LMS, o
 
 ## Repository Architecture
 
-Goblin Quantum Lab operates on a three-repository architecture:
+Goblin Quantum Lab uses a separated architecture:
 
-- **Public Repository (goblin-quantum-lab)**: Teaching content and public coursework
-- **Private Assessment Repository (gql-private-assessment)**: Protected assessment materials, answer keys, and grading logic
-- **Private Operations Repository (gql-academy-operations)**: Learner records, submission tracking, and badge records
+- **Public site repository**: Teaching content and public coursework
+- **Protected assessment layer**: Sensitive assessment materials and official review logic
+- **Protected operations layer**: Learner records, submission tracking, and badge records
 
-No answer keys, hidden tests, student records, or private operations documents are published in the public repository.
+No official solution materials, protected assessment checks, student records, or private operations documents are published in the public repository.
 
 ## Future Expansion
 

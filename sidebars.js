@@ -31,6 +31,21 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "Support Subjects",
+      items: [
+        "support-subjects/index",
+        "support-subjects/ss-001-github-and-technical-workflow-basics",
+        "support-subjects/ss-002-python-for-quantum-learners",
+        "support-subjects/ss-003-probability-for-quantum-measurement",
+        "support-subjects/ss-004-linear-algebra-for-quantum-computing",
+        "support-subjects/ss-005-complex-numbers-and-quantum-states",
+        "support-subjects/ss-006-scientific-report-writing-basics",
+        "support-subjects/ss-007-reading-technical-documentation",
+        "support-subjects/ss-008-research-evidence-and-reproducibility-basics",
+      ],
+    },
+    {
+      type: "category",
       label: "Enrolled Learners",
       items: [
         "enrolled-learners/index",
@@ -41,6 +56,23 @@ const sidebars = {
       label: "Quantum Foundations",
       items: [
         "quantum-foundations/index",
+        {
+          type: "category",
+          label: "QF-101 Quantum Thinking",
+          items: [
+            "quantum-foundations/qf-101-quantum-thinking/index",
+            "quantum-foundations/qf-101-quantum-thinking/module-01-classical-bits-and-qubits",
+            "quantum-foundations/qf-101-quantum-thinking/module-02-probability-and-measurement",
+            "quantum-foundations/qf-101-quantum-thinking/module-03-superposition",
+            "quantum-foundations/qf-101-quantum-thinking/module-04-observing-results",
+            "quantum-foundations/qf-101-quantum-thinking/module-05-common-quantum-misconceptions",
+            "quantum-foundations/qf-101-quantum-thinking/module-06-first-experiment-discipline",
+            "quantum-foundations/qf-101-quantum-thinking/labs",
+            "quantum-foundations/qf-101-quantum-thinking/competency-check",
+            "quantum-foundations/qf-101-quantum-thinking/report-task",
+            "quantum-foundations/qf-101-quantum-thinking/badge-criteria",
+          ],
+        },
       ],
     },
     {
@@ -48,6 +80,14 @@ const sidebars = {
       label: "Labs",
       items: [
         "labs/index",
+        {
+          type: "category",
+          label: "Beginner Labs",
+          items: [
+            "labs/beginner/lab-001-single-qubit-measurement",
+            "labs/beginner/lab-002-shot-count-observation",
+          ],
+        },
         "labs/faq",
         "labs/setup",
       ],
@@ -64,6 +104,7 @@ const sidebars = {
       label: "Report Writing",
       items: [
         "report-writing/index",
+        "report-writing/beginner-lab-report-template",
         "report-writing/examples",
         "report-writing/templates",
         "report-writing/tips",

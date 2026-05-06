@@ -28,11 +28,11 @@ Never commit passwords or API keys to the repository. Keep all libraries and dep
 
 ## Data and Privacy Protection
 
-Do not submit secrets, API keys, private data, or personal records to the public repository. Do not publish answer keys or hidden grading materials. Report accidental exposure of assessment material as an integrity issue.
+Do not submit secrets, API keys, private data, or personal records to the public repository. Do not publish official solutions or protected grading materials. Report accidental exposure of assessment material as an integrity issue.
 
 ## Assessment Integrity
 
-Assessment integrity is critical to maintaining the credibility of Goblin Quantum Lab. Never attempt to access hidden tests, answer keys, or official grading materials. Do not share solutions with other students before assessments are completed. Report any suspected assessment integrity violations to the maintainers.
+Assessment integrity is critical to maintaining the credibility of Goblin Quantum Lab. Never attempt to access protected assessment checks, official solutions, or official grading materials. Do not share solutions with other students before assessments are completed. Report any suspected assessment integrity violations to the maintainers.
 
 ## Accessibility and Inclusion
 

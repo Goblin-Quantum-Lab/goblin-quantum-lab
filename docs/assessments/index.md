@@ -20,11 +20,11 @@ Goblin Quantum Lab offers various types of assessments to accommodate different 
 
 ## Public Assessment Information
 
-This public repository provides information about the types of assessments available, their objectives, and what they evaluate. **Public competency checks may include student-facing questions and instructions**. However, **answer keys and official grading logic are not published**. **Official review materials belong only in the private assessment repository**. **Learner results and badge/completion records belong only in the private operations repository**.
+This public repository provides information about the types of assessments available, their objectives, and what they evaluate. **Public competency checks may include student-facing questions and instructions**. However, **official solutions and official grading logic are not published**. **Official review materials and learner records are not published in this public repository**.
 
 ## Assessment Integrity
 
-Assessment integrity is fundamental to Goblin Quantum Lab. We are committed to fair, honest, and transparent assessment practices. To maintain integrity, we keep sensitive assessment materials private. This includes answer keys, hidden test cases, and official grading rubrics.
+Assessment integrity is fundamental to Goblin Quantum Lab. We are committed to fair, honest, and transparent assessment practices. To maintain integrity, sensitive assessment materials and official grading rubrics are not published.
 
 If you discover that sensitive assessment materials have been accidentally exposed, please report this as an **assessment integrity incident** to the maintainers immediately.
 
