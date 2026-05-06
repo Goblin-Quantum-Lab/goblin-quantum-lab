@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Goblin Quantum Lab',
   tagline: 'Free practical quantum computing education, from first qubit to disciplined experiment reports.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/branding/gql-mark-g.png',
 
   // Set the production url of your site here
   url: 'https://Goblin-Quantum-Lab.github.io',
@@ -57,13 +57,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/branding/gql-hero-banner.png',
       navbar: {
-        title: 'Goblin Quantum Lab',
         logo: {
           alt: 'Goblin Quantum Lab Logo',
-          src: 'img/logo.svg',
+          src: 'img/branding/gql-logo-horizontal-wide.png',
         },
         items: [
           {
@@ -71,6 +69,16 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Learning',
+          },
+          {
+            to: '/docs/intro',
+            label: 'Start Learning',
+            position: 'left',
+          },
+          {
+            to: '/docs/learning-pathways',
+            label: 'Learning Pathways',
+            position: 'left',
           },
           {
             href: 'https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab',

@@ -1,47 +1,20 @@
+.brandedBackdrop {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-color: #020817;
+  background-position: center;
+  background-size: cover;
+}
+
 .heroBanner {
-  padding: 2rem 0;
-  text-align: center;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #001f3f 0%, #003d7a 100%);
-}
-
-.heroBanner h1 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-}
-
-.heroBanner p {
-  font-size: 1.25rem;
-  margin-bottom: 2rem;
-}
-
-.buttons {
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.buttons .button {
-  background-color: #20c997;
-  border-color: #20c997;
-  color: white;
-  font-weight: 600;
-  padding: 0.75rem 1.5rem;
-  border-radius: 0.5rem;
-  transition: all 0.3s ease;
-}
-
-.buttons .button:hover {
-  background-color: #1aa179;
-  border-color: #1aa179;
-  transform: translateY(-2px);
+  min-height: min(92vh, 920px);
 }
 
 .features {
-  padding: 4rem 0;
-  background-color: #f8f9fa;
+  padding: 8rem 0 4.5rem;
+  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.72) 18%, rgba(245, 248, 252, 0.92) 58%, #f5f8fc 100%);
 }
 
 .feature {
@@ -49,33 +22,34 @@
 }
 
 .featureCard {
-  padding: 2rem;
-  background: white;
-  border-radius: 0.5rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
   height: 100%;
+  padding: 1.75rem;
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 20px 44px rgba(15, 23, 42, 0.12);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .featureCard:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
-  transform: translateY(-4px);
+  border-color: rgba(14, 165, 233, 0.48);
+  box-shadow: 0 24px 54px rgba(15, 23, 42, 0.18);
 }
 
 .featureCard h3 {
-  color: #001f3f;
+  color: #031b3f;
   margin-bottom: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.28rem;
 }
 
 .featureCard p {
-  color: #555;
+  color: #475569;
   line-height: 1.6;
 }
 
 .info {
-  padding: 4rem 0;
-  background-color: white;
+  padding: 4.5rem 0;
+  background-color: #f5f8fc;
 }
 
 .infoContent {
@@ -84,40 +58,69 @@
 }
 
 .infoContent h2 {
-  color: #001f3f;
+  color: #031b3f;
   margin-bottom: 1.5rem;
   font-size: 2rem;
 }
 
 .infoContent p {
-  color: #555;
+  color: #475569;
   line-height: 1.8;
   margin-bottom: 1.5rem;
 }
 
 .disclaimer {
-  background-color: #f0f7ff;
-  border-left: 4px solid #20c997;
+  background-color: #fff1f2;
+  border-left: 4px solid #fda4af;
   padding: 1.5rem;
-  border-radius: 0.25rem;
-  color: #333;
+  border-radius: 8px;
+  color: #1e293b;
   line-height: 1.6;
 }
 
+:global(html[data-theme='dark']) .features {
+  background: linear-gradient(180deg, rgba(2, 8, 23, 0) 0%, rgba(2, 8, 23, 0.72) 18%, rgba(7, 21, 40, 0.94) 58%, #071528 100%);
+}
+
+:global(html[data-theme='dark']) .featureCard {
+  border-color: rgba(56, 189, 248, 0.24);
+  background: rgba(8, 21, 40, 0.96);
+  box-shadow: 0 20px 44px rgba(0, 0, 0, 0.24);
+}
+
+:global(html[data-theme='dark']) .featureCard h3 {
+  color: #e0f2fe;
+}
+
+:global(html[data-theme='dark']) .featureCard p {
+  color: #cbd5e1;
+}
+
+:global(html[data-theme='dark']) .info {
+  background-color: #071528;
+}
+
+:global(html[data-theme='dark']) .infoContent h2 {
+  color: #e0f2fe;
+}
+
+:global(html[data-theme='dark']) .infoContent p {
+  color: #cbd5e1;
+}
+
+:global(html[data-theme='dark']) .disclaimer {
+  background-color: #fff1f2;
+  border-left-color: #fda4af;
+  color: #1e293b;
+}
+
 @media (max-width: 768px) {
-  .heroBanner h1 {
-    font-size: 2rem;
+  .brandedBackdrop {
+    background-attachment: scroll;
+    background-position: center right 36%;
   }
 
-  .heroBanner p {
-    font-size: 1rem;
-  }
-
-  .buttons {
-    flex-direction: column;
-  }
-
-  .buttons .button {
-    width: 100%;
+  .heroBanner {
+    min-height: 720px;
   }
 }
