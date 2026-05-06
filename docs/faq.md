@@ -30,6 +30,9 @@ A: No prior quantum knowledge is required for the first foundations course. Some
 **Q: How can I practice what I learn?**
 A: We provide practical labs with hands-on experiments using quantum simulation frameworks. You can also engage in assessments to verify your understanding.
 
+**Q: How do I join the public learner workflow?**
+A: Use the [Enrolled Learner Workflow](/docs/enrolled-learners) to open a GitHub issue, choose a starting point, and receive public-safe guidance from maintainers.
+
 ## Contribution and Community
 
 **Q: How can I contribute to Goblin Quantum Lab?**

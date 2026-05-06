@@ -1,0 +1,77 @@
+name: Enrolled learner request
+description: Join the public GitHub-native learner workflow.
+title: "Learner enrollment: "
+labels:
+  - learner-enrollment
+  - triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for public-safe enrollment requests only. Do not include legal names, school IDs, private contact details, credentials, API keys, assessment solutions, or other private information.
+  - type: input
+    id: github-username
+    attributes:
+      label: GitHub username
+      description: Use the public GitHub username you want maintainers to recognize.
+      placeholder: "@username"
+    validations:
+      required: true
+  - type: dropdown
+    id: starting-point
+    attributes:
+      label: Starting point
+      description: Pick the area where you want to begin.
+      options:
+        - Quantum foundations
+        - Practical labs
+        - Report writing
+        - Assessment readiness
+        - Not sure yet
+    validations:
+      required: true
+  - type: dropdown
+    id: experience-level
+    attributes:
+      label: Current experience level
+      options:
+        - Complete beginner
+        - Some programming experience
+        - Some physics or mathematics background
+        - Some quantum computing background
+        - Returning learner
+    validations:
+      required: true
+  - type: textarea
+    id: learning-goal
+    attributes:
+      label: Learning goal
+      description: Share a short, public-safe goal for your learning.
+      placeholder: "Example: I want to understand basic quantum gates and complete the first simulation lab."
+    validations:
+      required: true
+  - type: dropdown
+    id: pace
+    attributes:
+      label: Expected pace
+      description: This is only for planning public support, not a contract or credential.
+      options:
+        - Casual self-paced
+        - Weekly study rhythm
+        - Focused short sprint
+        - Unsure
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Public workflow acknowledgements
+      options:
+        - label: I understand this issue is public.
+          required: true
+        - label: I will not post private personal data, credentials, secrets, or API keys.
+          required: true
+        - label: I will not post assessment solutions or protected grading material.
+          required: true
+        - label: I understand enrollment is for public learning support and is not a formal credential.
+          required: true

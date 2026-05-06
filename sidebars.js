@@ -31,6 +31,13 @@ const sidebars = {
     },
     {
       type: "category",
+      label: "Enrolled Learners",
+      items: [
+        "enrolled-learners/index",
+      ],
+    },
+    {
+      type: "category",
       label: "Quantum Foundations",
       items: [
         "quantum-foundations/index",

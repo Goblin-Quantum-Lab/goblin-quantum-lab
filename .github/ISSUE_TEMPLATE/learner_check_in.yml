@@ -1,0 +1,56 @@
+name: Learner check-in
+description: Share public-safe progress, blockers, and next steps.
+title: "Learner check-in: "
+labels:
+  - learner-check-in
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for public progress updates. Keep the update about learning activity and blockers, not private records or assessment answers.
+  - type: input
+    id: enrollment-issue
+    attributes:
+      label: Enrollment issue
+      description: Link your enrollment issue if you have one.
+      placeholder: "#123"
+  - type: dropdown
+    id: active-area
+    attributes:
+      label: Active learning area
+      options:
+        - Quantum foundations
+        - Practical labs
+        - Report writing
+        - Assessment readiness
+        - General study planning
+    validations:
+      required: true
+  - type: textarea
+    id: completed
+    attributes:
+      label: What did you work on?
+      description: List public docs, labs, notes, or concepts you studied.
+      placeholder: "- Read the introduction\n- Set up Python\n- Practiced basic circuit notation"
+    validations:
+      required: true
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Blockers or questions
+      description: Ask for help without posting private information or assessment answers.
+      placeholder: "I am stuck on..."
+  - type: textarea
+    id: next-step
+    attributes:
+      label: Next intended step
+      placeholder: "Next I plan to..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: public-safe
+    attributes:
+      label: Public-safe confirmation
+      options:
+        - label: This check-in does not include private personal data, credentials, secrets, API keys, assessment solutions, or protected grading material.
+          required: true

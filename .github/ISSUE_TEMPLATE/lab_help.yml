@@ -1,0 +1,65 @@
+name: Lab help
+description: Ask for public-safe help with setup, tooling, or lab instructions.
+title: "Lab help: "
+labels:
+  - learner-help
+  - triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for public troubleshooting. Do not post secrets, private data, assessment answers, or protected grading material.
+  - type: input
+    id: doc-or-lab
+    attributes:
+      label: Related doc or lab
+      description: Link the public page, lab file, or section you are working on.
+      placeholder: "Example: /docs/labs/setup"
+    validations:
+      required: true
+  - type: dropdown
+    id: help-type
+    attributes:
+      label: Help type
+      options:
+        - Local environment setup
+        - Python package issue
+        - Quantum framework issue
+        - Documentation confusion
+        - Reproducibility question
+        - Other public-safe question
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: "I expected..."
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+      placeholder: "Instead..."
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment details
+      description: Share non-sensitive versions, operating system, and commands. Redact usernames, paths with private names, tokens, and keys.
+      placeholder: "OS: Windows 11\nPython: 3.11\nCommand: pip install ..."
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error output
+      description: Paste only public-safe error text. Remove tokens, API keys, personal paths, and private data.
+      render: shell
+  - type: checkboxes
+    id: public-safe
+    attributes:
+      label: Public-safe confirmation
+      options:
+        - label: This help request does not include private personal data, credentials, secrets, API keys, assessment solutions, or protected grading material.
+          required: true

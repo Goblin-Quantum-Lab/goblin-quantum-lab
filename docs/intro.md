@@ -29,6 +29,7 @@ This project is not an accredited university or certification provider, a produc
 Choose your path:
 
 - **New to quantum computing?** Start with [Learning Pathways](/docs/learning-pathways)
+- **Want public guided support?** Use the [Enrolled Learner Workflow](/docs/enrolled-learners)
 - **Want to dive into theory?** Explore [Quantum Foundations](/docs/quantum-foundations)
 - **Ready to experiment?** Check out [Labs](/docs/labs)
 - **Want to assess your knowledge?** Try [Assessments](/docs/assessments)
