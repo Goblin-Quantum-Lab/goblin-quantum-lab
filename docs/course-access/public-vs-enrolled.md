@@ -12,7 +12,7 @@ Protected course materials and assessment workflows are maintained outside the p
 | --- | --- |
 | Public | homepage, course catalogue, course overview pages, Support Subjects, public policies, enrollment instructions |
 | Enrolled-only | full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, learner-specific review instructions |
-| Never public | answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names or URLs |
+| Never public | protected assessment and grading materials, reviewer notes, badge decision records, private process details, private storage details |
 
 ## Public Course Pages
 
@@ -32,4 +32,4 @@ Operating-system names are used only to identify the relevant setup path. Goblin
 
 ## Protected Assessment Boundary
 
-Official assessed work is handled through the enrolled learner process. Learners must not publish assignments, tests, solutions, reviewer feedback, badge decision records, or protected course materials in public issues, pull requests, websites, repositories, or social posts.
+Assessed work is handled through the enrolled learner process. Learners must not publish assignments, tests, protected responses, reviewer feedback, badge decision records, or protected course materials in public issues, pull requests, websites, repositories, or social posts.

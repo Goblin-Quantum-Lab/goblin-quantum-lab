@@ -16,8 +16,8 @@ No. Public pages provide lab overviews only. Full lab files, lab instructions, s
 
 ## Where Do I Submit Lab Work?
 
-Use the enrolled learner process. Public issues may be used for public-safe help, but they are not a place to publish assignments, tests, solutions, reviewer feedback, or protected course materials.
+Use the enrolled learner process. Public issues may be used for public-safe help, but they are not a place to publish assignments, tests, protected responses, reviewer feedback, or protected course materials.
 
 ## What Should I Avoid Posting Publicly?
 
-Do not post API keys, access tokens, secrets, private account details, official solutions, protected assessment materials, assignment prompts, tests, reviewer notes, school IDs, or private contact details.
+Do not post API keys, access tokens, secrets, private account details, protected assessment materials, assignment prompts, tests, reviewer notes, school IDs, or private contact details.

@@ -28,4 +28,4 @@ Support Subjects remain public, but advanced assessed work may be prerequisite-g
 
 ## What Should I Avoid Posting Publicly?
 
-Do not post sensitive personal data, API keys, tokens, secrets, private account details, official solutions, or protected assessment materials.
+Do not post sensitive personal data, API keys, tokens, secrets, private account details, protected assessment materials, or protected assessment materials.

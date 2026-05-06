@@ -12,7 +12,7 @@ Full assessment prompts, tests, assignments, submission instructions, learner-sp
 
 ## Never Public
 
-Official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, badge decision records, and private workflow details are never published in the public repository.
+Protected assessment and grading materials, reviewer notes, badge decision records, and private process details are never published in the public repository.
 
 ## Badge Boundary
 

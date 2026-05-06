@@ -35,4 +35,4 @@ Course cards open public overview and enrollment pages only. They do not open fu
 
 ## Public Boundary
 
-Public catalogue pages may describe a course, its status, expected preparation, and enrollment route. They must not publish full course packs, assignments, tests, official solutions, model answers, grading logic, reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+Public catalogue pages may describe a course, its status, expected preparation, and enrollment route. They must not publish full course packs, assignments, tests, protected assessment materials, protected grading materials, reviewer notes, badge decision records, private process details, private storage details.

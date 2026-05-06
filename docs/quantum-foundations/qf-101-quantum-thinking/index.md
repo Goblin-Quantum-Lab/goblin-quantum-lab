@@ -68,7 +68,7 @@ GQL badges are local learning milestones only. They are not accredited credentia
 
 ## Protected Material Boundary
 
-Official solutions, answer keys, model answers, grading logic, reviewer notes, badge decision records, and private assessment workflows are never published in the public repository.
+Protected assessment and grading materials, reviewer notes, badge decision records, and private assessment workflows are never published in the public repository.
 
 ## Request Enrollment
 

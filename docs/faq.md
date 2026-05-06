@@ -28,7 +28,7 @@ Full course materials, course slides, course PDFs, lab files, assignments, tests
 
 ## What Is Never Public?
 
-Answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names, and private repository URLs are never public.
+Protected assessment materials, protected assessment and grading materials, reviewer notes, badge decision records, private process details, private storage details, and private storage locations are never public.
 
 ## Do I Need A GitHub Account?
 
@@ -44,4 +44,4 @@ No. QF-101 does not require credit cards, cloud quantum hardware, IBM Pay-As-You
 
 ## Where Can I Ask For Help?
 
-Use public-safe GitHub Issues. Do not post sensitive personal data, passwords, API keys, access tokens, protected course materials, assignments, tests, solutions, reviewer feedback, or private account details.
+Use public-safe GitHub Issues. Do not post sensitive personal data, passwords, API keys, access tokens, protected course materials, assignments, tests, protected responses, reviewer feedback, or private account details.

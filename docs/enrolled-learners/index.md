@@ -18,7 +18,7 @@ See [GitHub Account Access](/docs/enrollment/github-account-access) for the acco
 - Use your GitHub username, not legal names, school IDs, private email addresses, or private contact details.
 - GitHub Issues are public.
 - Do not post sensitive personal data, credentials, secrets, API keys, tokens, or private file paths.
-- Do not post official solutions, protected assessment materials, or private reviewer notes.
+- Do not post protected assessment materials, or private reviewer notes.
 - Keep questions focused on learning, setup, public documentation, and reproducible lab issues.
 
 ## Learner Path

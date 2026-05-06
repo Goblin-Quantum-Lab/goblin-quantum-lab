@@ -25,16 +25,16 @@ Learners must use their own GitHub account. Do not request enrollment using some
 
 - Support Subjects remain public.
 - Public course pages are overviews only.
-- Official assessed work is handled through the enrolled learner process.
+- Assessed work is handled through the enrolled learner process.
 - Full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, and learner-specific review instructions are enrolled-only.
 
 Protected course materials and assessment workflows are maintained outside the public repository.
 
 ## Learner Responsibilities
 
-Learners must not share protected course materials. Learners must not publish assignments, tests, solutions, reviewer feedback, badge decision records, private workflow details, or enrolled-only instructions.
+Learners must not share protected course materials. Learners must not publish assignments, tests, protected responses, reviewer feedback, badge decision records, private process details, or enrolled-only instructions.
 
-GitHub Issues are public. Do not submit passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, official solutions, protected assessment materials, or reviewer notes.
+GitHub Issues are public. Do not submit passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, protected assessment materials, or reviewer notes.
 
 ## Request Enrollment
 

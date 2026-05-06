@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue is public. Use this form for public-safe enrollment requests only. Do not include sensitive personal data, legal names, school IDs, private contact details, secrets, credentials, API keys, official solutions, protected assessment materials, or other private information.
+        This issue is public. Use this form for public-safe enrollment requests only. Do not include sensitive personal data, legal names, school IDs, private contact details, secrets, credentials, API keys, protected assessment materials, or other private information.
   - type: input
     id: github-username
     attributes:
@@ -71,7 +71,7 @@ body:
           required: true
         - label: I will not post sensitive personal data, credentials, secrets, or API keys.
           required: true
-        - label: I will not post official solutions or protected assessment materials.
+        - label: I will not post protected assessment materials or protected assessment materials.
           required: true
         - label: I understand enrollment is for public learning support and is not a formal credential.
           required: true

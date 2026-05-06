@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue is public. Do not include passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, official solutions, protected assessment materials, or reviewer notes.
+        This issue is public. Do not include passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, protected assessment materials, or reviewer notes.
   - type: input
     id: github-username
     attributes:
@@ -39,7 +39,7 @@ body:
           required: true
         - label: I understand GQL badges are local learning milestones only.
           required: true
-        - label: I understand official solutions, answer keys, model answers, grading logic, and reviewer notes are not public.
+        - label: I understand protected assessment materials, protected grading materials, and reviewer notes are not public.
           required: true
         - label: I understand QF-101 does not require credit cards, cloud quantum hardware, API keys, or paid services.
           required: true

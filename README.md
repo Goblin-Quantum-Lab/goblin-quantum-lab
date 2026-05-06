@@ -19,7 +19,7 @@ This public repository contains:
 - public policies
 - enrollment instructions
 
-This public repository does not contain or publish full course packs, slides, PDFs, enrolled lab files, assignments, tests, answer keys, model answers, grading logic, hidden tests, official solutions, certificates, private reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+This public repository does not contain or publish full course packs, slides, PDFs, enrolled lab files, assignments, tests, protected assessment and grading materials, certificates, private reviewer notes, badge decision records, private process details, or private storage details.
 
 ## Current Public Learning Areas
 
@@ -47,6 +47,6 @@ MIT applies to source code only. It does not grant permission to copy, redistrib
 
 ## Contributing Summary
 
-Contributions should be public-safe, educational, accurate, beginner-aware, and consistent with the public catalogue boundary. Do not contribute protected course materials, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, credentials, tokens, or private workflow details.
+Contributions should be public-safe, educational, accurate, beginner-aware, and consistent with the public catalogue boundary. Do not contribute protected course materials, assignments, tests, protected assessment materials, protected grading materials, protected test materials, reviewer notes, credentials, tokens, or private process details.
 
 See `docs/CONTRIBUTING.md` for more details.

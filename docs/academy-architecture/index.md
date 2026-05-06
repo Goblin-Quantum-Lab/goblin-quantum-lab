@@ -12,12 +12,12 @@ Protected course materials and assessment workflows are maintained outside the p
 
 ## Public Boundary
 
-The public repository does not publish full course PDFs, full course slides, protected course packs, enrolled lab files, assignments, tests, answer keys, model answers, grading logic, hidden tests, official solutions, certificates, private reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+The public repository does not publish full course PDFs, full course slides, protected course packs, enrolled lab files, assignments, tests, protected assessment and grading materials, certificates, private reviewer notes, badge decision records, private process details, or private storage details.
 
 ## Access Model
 
 - **Public:** homepage, course catalogue, course overview pages, Support Subjects, public policies, enrollment instructions
 - **Enrolled-only:** full course materials, course slides, course PDFs, lab files, assignments, tests, submission instructions, learner-specific review instructions
-- **Never public:** answer keys, model answers, grading logic, official solutions, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names or URLs
+- **Never public:** protected assessment and grading materials, reviewer notes, badge decision records, private process details, private storage details
 
 See [Public vs Enrolled Access](/docs/course-access/public-vs-enrolled).

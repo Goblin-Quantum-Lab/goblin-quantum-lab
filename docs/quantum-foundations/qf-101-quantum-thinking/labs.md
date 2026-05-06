@@ -15,6 +15,6 @@ The enrolled labs are designed for local simulator use and no-cost beginner prac
 
 ## Access Boundary
 
-The public repository does not publish QF-101 lab files, completed reports, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, or reviewer notes.
+The public repository does not publish QF-101 lab files, completed reports, assignments, tests, protected assessment materials, protected grading materials, protected test materials, or reviewer notes.
 
 [View the QF-101 enrollment overview](./index.md)

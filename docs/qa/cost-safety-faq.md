@@ -26,6 +26,6 @@ Cloud or hardware execution is reserved for later advanced optional labs with ex
 
 ## What Should I Avoid Posting Publicly?
 
-Never paste API keys, tokens, secrets, AWS access key values, IBM token values, private account details, private file paths, official solutions, or protected assessment materials into public issues or submissions.
+Never paste API keys, tokens, secrets, AWS access key values, IBM token values, private account details, private file paths, protected assessment materials, or protected assessment materials into public issues or submissions.
 
 If a setup step asks for payment details or account credentials while you are doing QF-101, stop and use [Lab help](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml).

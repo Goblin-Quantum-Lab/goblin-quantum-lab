@@ -2,22 +2,22 @@
 
 ## What This Project Is
 
-This is a free public education project dedicated to practical quantum computing education. It provides structured learning pathways, practical simulation labs, competency checks, and disciplined experiment practices.
+This public repository is the front door for Goblin Quantum Lab. It contains the public website, branding, course catalogue, course previews, enrollment instructions, public policies, Support Subjects, public issue forms, and contact/legal/licensing/brand pages.
 
 ## What This Project Is Not
 
-This project is not a university, accredited certification provider, paid LMS, or production research system. Formal certificates are not currently issued. Badges are local learning milestones, not professional credentials.
+This project is not a university, accredited certification provider, paid LMS, production research system, or official credential issuer. Formal certificates are not currently issued. Badges are local learning milestones, not professional credentials.
 
 ## Repository Architecture
 
-Goblin Quantum Lab uses a separated architecture:
+Goblin Quantum Lab uses a layered public/private architecture:
 
-- **Public site repository**: Teaching content and public coursework
-- **Protected assessment layer**: Sensitive assessment materials and official review logic
-- **Protected operations layer**: Learner records, submission tracking, and badge records
+- **Public site repository**: front door and Support Subjects
+- **Private operations layer**: gated coursework and academy management
+- **Private assessment layer**: protected assessment and grading materials
 
-No official solution materials, protected assessment checks, student records, or private operations documents are published in the public repository.
+Protected assessment materials, learner records, badge award records, and private reviewer materials are not published in the public repository.
 
 ## Future Expansion
 
-Future course materials may be expanded, revised, or migrated to another platform. The core three-repository architecture will remain the foundation of the project.
+Future course materials may be expanded or revised. The public site remains the front door and Support Subjects home, while gated coursework and protected assessment materials remain outside the public repository.

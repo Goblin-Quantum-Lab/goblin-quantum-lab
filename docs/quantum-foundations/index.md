@@ -10,6 +10,6 @@ Quantum Foundations introduces the concepts learners need before moving into dee
 
 ## Public Boundary
 
-This page is a course catalogue. It does not publish full lessons, lab files, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, badge decision records, private workflow details, private repository names, or private repository URLs.
+This page is a course catalogue. It does not publish full lessons, lab files, assignments, tests, protected assessment materials, protected grading materials, protected test materials, reviewer notes, badge decision records, private process details, private storage details.
 
 Support Subjects remain open and public: [Support Subjects](/docs/support-subjects).

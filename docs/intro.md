@@ -18,7 +18,7 @@ Protected course materials and assessment workflows are maintained outside the p
 - QF-101 and future courses remain visible in the public course catalogue.
 - Course cards open public overview and enrollment pages only.
 - Full enrolled course lessons are not exposed through public navigation.
-- Official assessed work is handled through the enrolled learner process.
+- Assessed work is handled through the enrolled learner process.
 
 ## Getting Started
 

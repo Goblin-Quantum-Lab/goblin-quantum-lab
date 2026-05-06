@@ -6,7 +6,7 @@ sidebar_position: 5
 
 This public page is a report-structure overview for beginner observation writing. Enrolled course-specific report prompts, submission instructions, assessed work, reviewer notes, and badge decision records are not published in the public repository.
 
-Do not include credentials, secrets, API keys, private data, assessment solutions, or protected grading material.
+Do not include credentials, secrets, API keys, private data, protected assessment materials, or protected grading material.
 
 ## Title
 
@@ -101,5 +101,5 @@ Conclusion:
 
 - [ ] I did not include private personal data.
 - [ ] I did not include credentials, secrets, tokens, or API keys.
-- [ ] I did not include official solutions, sample completed responses, protected assessment checks, official grading scripts, or official grading logic.
+- [ ] I did not include protected assessment materials, sample completed responses, protected assessment checks, protected grading materials, or protected grading materials.
 - [ ] I described my own observation in clear beginner language.

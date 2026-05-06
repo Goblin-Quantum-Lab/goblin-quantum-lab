@@ -12,6 +12,6 @@ The enrolled report task asks learners to write a careful beginner observation r
 
 ## Access Boundary
 
-The public repository does not publish completed report examples, model answers, official solutions, grading logic, private reviewer notes, or badge decision records.
+The public repository does not publish completed report examples, protected assessment materials, protected grading materials, private reviewer notes, or badge decision records.
 
 [View the QF-101 enrollment overview](./index.md)

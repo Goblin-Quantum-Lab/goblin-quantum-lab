@@ -20,7 +20,7 @@ This document outlines the expected conduct within the Goblin Quantum Lab enviro
 ## Unacceptable Behavior
 
 - Harassment, discrimination, or any form of disrespectful conduct.
-- Cheating, plagiarism, or unauthorized sharing of solutions.
+- Cheating, plagiarism, or unauthorized sharing of protected assessment material.
 - Disrupting the learning environment or interfering with others' work.
 - Any actions that compromise the integrity or safety of the lab environment.
 

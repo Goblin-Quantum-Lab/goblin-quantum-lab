@@ -4,7 +4,7 @@ Safety and discipline help learners keep public work reproducible, respectful, a
 
 ## Public Safety
 
-Do not submit passwords, API keys, access tokens, secrets, private data, personal records, protected course materials, assignments, tests, official solutions, answer keys, model answers, grading logic, hidden tests, reviewer notes, or badge decision records to the public repository.
+Do not submit passwords, API keys, access tokens, secrets, private data, personal records, protected course materials, assignments, tests, protected assessment materials, protected grading materials, protected test materials, reviewer notes, or badge decision records to the public repository.
 
 ## Experiment Discipline
 
@@ -18,7 +18,7 @@ When working with public Support Subjects or enrolled course tasks, keep notes c
 
 ## Assessment Integrity
 
-Official assessed work is handled through the enrolled learner process. Protected assessment materials and assessment workflows are not published in the public repository.
+Assessed work is handled through the enrolled learner process. Protected assessment materials and assessment workflows are not published in the public repository.
 
 ## Security Considerations
 

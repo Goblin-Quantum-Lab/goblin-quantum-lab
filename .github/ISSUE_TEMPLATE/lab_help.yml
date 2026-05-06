@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue is public. Use this form for public troubleshooting. Do not post sensitive personal data, secrets, credentials, API keys, official solutions, or protected assessment materials.
+        This issue is public. Use this form for public troubleshooting. Do not post sensitive personal data, secrets, credentials, API keys, protected assessment materials, or protected assessment materials.
   - type: input
     id: doc-or-lab
     attributes:
@@ -61,5 +61,5 @@ body:
     attributes:
       label: Public-safe confirmation
       options:
-        - label: This help request does not include sensitive personal data, credentials, secrets, API keys, official solutions, or protected assessment materials.
+        - label: This help request does not include sensitive personal data, credentials, secrets, API keys, protected assessment materials, or protected assessment materials.
           required: true
