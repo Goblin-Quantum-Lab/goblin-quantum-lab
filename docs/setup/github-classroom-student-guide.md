@@ -12,7 +12,7 @@ QF-101 public overview pages do not require GitHub Classroom.
 
 - Use your own GitHub account.
 - Read [GitHub Account Access](/docs/enrollment/github-account-access).
-- Do not post sensitive personal data, passwords, API keys, access tokens, protected assessment materials, assignments, tests, reviewer notes, or badge decision records.
+- Do not post sensitive personal data, passwords, API keys, access tokens, protected assessment materials, assignments, tests, protected review material, or badge decision records.
 - Keep public help requests limited to public-safe setup or access questions.
 
 ## Public Boundary

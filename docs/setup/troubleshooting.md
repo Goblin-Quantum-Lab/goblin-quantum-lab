@@ -62,6 +62,6 @@ When asking for help, include:
 - the full public-safe error message
 - which public setup page you are following
 
-Do not include passwords, API keys, access tokens, secrets, private account details, protected assessment materials, enrolled-only instructions, or reviewer notes.
+Do not include passwords, API keys, access tokens, secrets, private account details, protected assessment materials, enrolled-only instructions, or protected review material.
 
 Ask for help with the [Lab help issue form](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml).

@@ -1,6 +1,6 @@
 # Report Templates
 
-This public page provides general report-structure guidance only. It does not publish enrolled course report prompts, submission instructions, assignments, tests, protected assessment materials, reviewer notes, or protected grading materials.
+This public page provides general report-structure guidance only. It does not publish enrolled course report prompts, submission instructions, assignments, tests, protected assessment materials, protected review material, or protected grading materials.
 
 ## Common Report Sections
 

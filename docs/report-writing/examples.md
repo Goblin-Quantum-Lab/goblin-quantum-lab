@@ -1,6 +1,6 @@
 # Report Examples
 
-This public page describes report-example categories at a high level. It does not publish completed course reports, protected assessment materials, protected lab results, assessment submissions, reviewer notes, or protected grading materials.
+This public page describes report-example categories at a high level. It does not publish completed course reports, protected assessment materials, protected lab results, assessment submissions, protected review material, or protected grading materials.
 
 ## Example Categories
 

@@ -12,7 +12,7 @@ Full assessment prompts, tests, assignments, submission instructions, learner-sp
 
 ## Never Public
 
-Protected assessment and grading materials, reviewer notes, badge decision records, and private process details are never published in the public repository.
+Protected assessment and grading materials, protected review material, badge decision records, and private process details are never published in the public repository.
 
 ## Badge Boundary
 

@@ -29,10 +29,10 @@ Course cards open public overview and enrollment pages only. They do not open fu
 
 | Course code | Course title | Level | Status | Access type | Short public description | Required account | Button text |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| QF-101 | Quantum Thinking | Beginner | Enrollment Required | GitHub-account-bound enrolled course | QF-101 introduces beginner quantum experiment literacy: qubits, measurement, probability, shots, counts, simulator discipline, and careful reporting. Full course materials are released only through the enrolled learner process. | GitHub account | [View enrollment overview](/docs/quantum-foundations/qf-101-quantum-thinking) |
+| QF-101 | Quantum Thinking | Beginner | Enrollment Required | GitHub-account-bound enrolled course | QF-101 begins with QF-101.0 environment readiness, then introduces beginner quantum experiment literacy: qubits, measurement, probability, shots, counts, simulator discipline, and careful reporting. Full course materials are released only through the enrolled learner process. | GitHub account | [View enrollment overview](/docs/quantum-foundations/qf-101-quantum-thinking) |
 | QP-101 | Quantum Programming Foundations | Beginner / Intermediate | Enrollment Required / Prerequisite Gated | GitHub-account-bound enrolled course | Future course covering beginner quantum programming practice after foundation readiness. | GitHub account | [View requirements](/docs/course-access/public-vs-enrolled) |
 | QA-101 | Quantum Algorithms Foundations | Intermediate | Enrollment Required / Prerequisite Gated | GitHub-account-bound enrolled course | Future course covering algorithm literacy after foundation and programming readiness. | GitHub account | [View requirements](/docs/course-access/public-vs-enrolled) |
 
 ## Public Boundary
 
-Public catalogue pages may describe a course, its status, expected preparation, and enrollment route. They must not publish full course packs, assignments, tests, protected assessment materials, protected grading materials, reviewer notes, badge decision records, private process details, private storage details.
+Public catalogue pages may describe a course, its status, expected preparation, and enrollment route. They must not publish full course packs, assignments, tests, protected assessment materials, protected grading materials, protected review records, badge decision records, private process details, or private storage details.

@@ -4,7 +4,7 @@ Safety and discipline help learners keep public work reproducible, respectful, a
 
 ## Public Safety
 
-Do not submit passwords, API keys, access tokens, secrets, private data, personal records, protected course materials, assignments, tests, protected assessment materials, protected grading materials, protected test materials, reviewer notes, or badge decision records to the public repository.
+Do not submit passwords, API keys, access tokens, secrets, private data, personal records, protected course materials, assignments, tests, protected assessment materials, protected grading materials, protected test materials, protected review material, or badge decision records to the public repository.
 
 ## Experiment Discipline
 
@@ -26,4 +26,4 @@ Never commit passwords, API keys, access tokens, secrets, or private account det
 
 ## Reporting Concerns
 
-Use the appropriate public-safe reporting route. Do not include private credentials, personal identification documents, confidential information, protected course materials, or reviewer notes in public reports.
+Use the appropriate public-safe reporting route. Do not include private credentials, personal identification documents, confidential information, protected course materials, or protected review material in public reports.

@@ -20,6 +20,6 @@ QF-101 may include local milestone names such as:
 
 Badge review is manual and may take up to 30 business days. Submitting a badge request does not guarantee approval.
 
-Badge designs, decision records, reviewer notes, protected assessment materials, protected grading materials, and private assessment workflows are never published in the public repository.
+Badge designs, decision records, protected review material, protected assessment materials, protected grading materials, and private assessment workflows are never published in the public repository.
 
 [View the QF-101 enrollment overview](./index.md)

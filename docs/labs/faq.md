@@ -18,4 +18,4 @@ Use [Lab help](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/n
 
 ## What Should I Avoid Posting?
 
-Do not publish assignments, tests, lab files, protected assessment materials, protected grading materials, protected test materials, reviewer notes, badge decision records, API keys, access tokens, secrets, or private account details.
+Do not publish assignments, tests, lab files, protected assessment materials, protected grading materials, protected test materials, protected review material, badge decision records, API keys, access tokens, secrets, or private account details.

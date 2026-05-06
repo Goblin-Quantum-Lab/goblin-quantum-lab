@@ -4,7 +4,7 @@ Labs connected to enrollment-required courses are not published as full lab file
 
 ## Public Lab Catalogue
 
-The public site may show lab titles and short descriptions so learners understand the course sequence. Full lab files, lab instructions, assignments, tests, submission instructions, protected assessment materials, protected grading materials, protected test materials, and reviewer notes are released only through the enrolled learner process or never published at all.
+The public site may show lab titles and short descriptions so learners understand the course sequence. Full lab files, lab instructions, assignments, tests, submission instructions, protected assessment materials, protected grading materials, protected test materials, and protected review material are released only through the enrolled learner process or never published at all.
 
 ## QF-101 Lab Previews
 

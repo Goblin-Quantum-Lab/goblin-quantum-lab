@@ -66,6 +66,7 @@ const sidebars = {
       items: [
         "quantum-foundations/index",
         "quantum-foundations/qf-101-quantum-thinking/index",
+        "quantum-foundations/qf-101-quantum-thinking/qf-101-0-environment-readiness",
       ],
     },
     {

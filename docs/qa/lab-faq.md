@@ -20,4 +20,4 @@ Use the enrolled learner process. Public issues may be used for public-safe help
 
 ## What Should I Avoid Posting Publicly?
 
-Do not post API keys, access tokens, secrets, private account details, protected assessment materials, assignment prompts, tests, reviewer notes, school IDs, or private contact details.
+Do not post API keys, access tokens, secrets, private account details, protected assessment materials, assignment prompts, tests, protected review material, school IDs, or private contact details.

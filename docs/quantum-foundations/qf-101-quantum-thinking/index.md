@@ -10,6 +10,8 @@ sidebar_position: 1
 
 QF-101 is a beginner course in quantum experiment literacy. It introduces the difference between classical bits and qubits, measurement, probability, repeated shots, result counts, simulator-based experiments, and careful beginner reporting.
 
+QF-101 begins with QF-101.0: Environment Readiness and Simulation Setup. This first enrolled unit prepares approved learners for local simulation work before any QF-101 labs.
+
 ## Public Access Notice
 
 This public page provides the course overview only. Full lesson materials, course slides, lab files, assignments, tests, and assessed work are released only through the enrolled learner process.
@@ -46,6 +48,7 @@ Operating-system names are used only to identify the relevant setup path. Goblin
 
 This sequence preview is public. It does not link to full course material.
 
+- QF-101.0 Environment Readiness and Simulation Setup
 - QF-101.1 Classical Bits and Qubits
 - QF-101.2 Probability and Measurement
 - QF-101.3 Superposition Without Hype
@@ -68,7 +71,7 @@ GQL badges are local learning milestones only. They are not accredited credentia
 
 ## Protected Material Boundary
 
-Protected assessment and grading materials, reviewer notes, badge decision records, and private assessment workflows are never published in the public repository.
+Protected assessment materials, protected review records, badge decision records, and private assessment workflows are never published in the public repository.
 
 ## Request Enrollment
 

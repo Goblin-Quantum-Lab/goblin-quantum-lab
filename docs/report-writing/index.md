@@ -12,7 +12,7 @@ Public report-writing pages may explain structure, clarity, reproducibility, lim
 
 ## Enrolled Boundary
 
-Course-specific report prompts, lab-specific templates, assignments, assessed submissions, reviewer notes, protected assessment materials, protected grading materials, and badge decision records are released only through the enrolled learner process or never published.
+Course-specific report prompts, lab-specific templates, assignments, assessed submissions, protected review material, protected assessment materials, protected grading materials, and badge decision records are released only through the enrolled learner process or never published.
 
 ## General Report Structure
 

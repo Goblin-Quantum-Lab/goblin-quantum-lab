@@ -28,7 +28,7 @@ Full course materials, course slides, course PDFs, lab files, assignments, tests
 
 ## What Is Never Public?
 
-Protected assessment materials, protected assessment and grading materials, reviewer notes, badge decision records, private process details, private storage details, and private storage locations are never public.
+Protected assessment materials, protected assessment and grading materials, protected review material, badge decision records, private process details, private storage details, and private storage locations are never public.
 
 ## Do I Need A GitHub Account?
 

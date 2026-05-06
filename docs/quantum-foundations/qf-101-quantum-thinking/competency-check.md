@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # QF-101 Competency Check Preview
 
-This public page is an assessment overview only. Full competency questions, tests, submission instructions, protected assessment materials, protected grading materials, and reviewer notes are never published in the public repository.
+This public page is an assessment overview only. Full competency questions, tests, submission instructions, protected assessment materials, protected grading materials, and protected review material are never published in the public repository.
 
 ## Public Preview
 

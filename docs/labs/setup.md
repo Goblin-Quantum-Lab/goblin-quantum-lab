@@ -13,6 +13,6 @@ QF-101 is designed for no-cost local simulator work after enrollment. It does no
 
 ## Public Safety
 
-Never paste API keys, access tokens, secrets, private account details, protected assessment materials, enrolled-only instructions, or reviewer notes into public issues, reports, or code files.
+Never paste API keys, access tokens, secrets, private account details, protected assessment materials, enrolled-only instructions, or protected review material into public issues, reports, or code files.
 
 Ask for public-safe help with the [Lab help issue form](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=lab_help.yml).

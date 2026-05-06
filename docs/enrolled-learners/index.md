@@ -18,7 +18,7 @@ See [GitHub Account Access](/docs/enrollment/github-account-access) for the acco
 - Use your GitHub username, not legal names, school IDs, private email addresses, or private contact details.
 - GitHub Issues are public.
 - Do not post sensitive personal data, credentials, secrets, API keys, tokens, or private file paths.
-- Do not post protected assessment materials, or private reviewer notes.
+- Do not post protected assessment materials or protected review material.
 - Keep questions focused on learning, setup, public documentation, and reproducible lab issues.
 
 ## Learner Path
@@ -33,7 +33,7 @@ See [GitHub Account Access](/docs/enrollment/github-account-access) for the acco
 
 Badge and completion review is manual and may take up to 30 business days.
 
-QF-101 learners should also read [Course Access](/docs/course-access/public-vs-enrolled), [Local Python Environment](/docs/setup/local-python-environment), [No-Cost Learning Rules](/docs/setup/no-cost-learning-rules), and the [Q&A section](/docs/qa) before asking for setup help.
+QF-101 learners should begin with the [QF-101.0 overview](/docs/quantum-foundations/qf-101-quantum-thinking/qf-101-0-environment-readiness), then read [Course Access](/docs/course-access/public-vs-enrolled), [Local Python Environment](/docs/setup/local-python-environment), [No-Cost Learning Rules](/docs/setup/no-cost-learning-rules), and the [Q&A section](/docs/qa) before asking for setup help.
 
 ## Issue Types
 

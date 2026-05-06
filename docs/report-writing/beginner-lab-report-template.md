@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Beginner Lab Report Template
 
-This public page is a report-structure overview for beginner observation writing. Enrolled course-specific report prompts, submission instructions, assessed work, reviewer notes, and badge decision records are not published in the public repository.
+This public page is a report-structure overview for beginner observation writing. Enrolled course-specific report prompts, submission instructions, assessed work, protected review material, and badge decision records are not published in the public repository.
 
 Do not include credentials, secrets, API keys, private data, protected assessment materials, or protected grading material.
 

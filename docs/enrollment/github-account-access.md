@@ -30,11 +30,13 @@ Learners must use their own GitHub account. Do not request enrollment using some
 
 Protected course materials and assessment workflows are maintained outside the public repository.
 
+QF-101 begins with QF-101.0: Environment Readiness and Simulation Setup. Approved learners receive that released unit through the enrolled learner process before starting QF-101 labs.
+
 ## Learner Responsibilities
 
-Learners must not share protected course materials. Learners must not publish assignments, tests, protected responses, reviewer feedback, badge decision records, private process details, or enrolled-only instructions.
+Learners must not share protected course materials. Learners must not publish assignments, tests, protected responses, private review feedback, badge decision records, private process details, or enrolled-only instructions.
 
-GitHub Issues are public. Do not submit passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, protected assessment materials, or reviewer notes.
+GitHub Issues are public. Do not submit passwords, tokens, API keys, government ID numbers, private financial information, sensitive personal information, protected assessment materials, or protected review material.
 
 ## Request Enrollment
 

@@ -12,6 +12,6 @@ Lab 002 introduces shot-count comparison for beginner experiment literacy. Enrol
 
 ## Access Boundary
 
-The public repository does not publish the enrolled lab file, assignment brief, protected assessment material, protected assessment material, protected assessment material, protected grading materials, protected test materials, reviewer notes, or completed report examples.
+The public repository does not publish the enrolled lab file, assignment brief, protected assessment material, protected assessment material, protected assessment material, protected grading materials, protected test materials, protected review material, or completed report examples.
 
 [View the QF-101 enrollment overview](/docs/quantum-foundations/qf-101-quantum-thinking)
