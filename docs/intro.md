@@ -12,27 +12,15 @@ Goblin Quantum Lab teaches quantum computing through structured learning pathway
 
 ## Learning Approach
 
-We believe in learning by doing. Our curriculum combines:
-
-- **Quantum Foundations**: Core concepts and principles of quantum mechanics and quantum computing
-- **Practical Labs**: Hands-on simulation experiments to reinforce theoretical knowledge
-- **Competency Checks**: Structured assessments to verify understanding and track progress
-- **Report Writing**: Development of disciplined experiment reporting and documentation skills
-- **Safe Experiment Discipline**: Best practices for conducting and documenting quantum experiments
+We believe in learning by doing. Our curriculum combines **Quantum Foundations** for core concepts, **Practical Labs** for hands-on simulation experiments, **Competency Checks** for verifying understanding, **Report Writing** for disciplined documentation, and **Safe Experiment Discipline** for best practices in quantum experiments.
 
 ## What This Project Is
 
-- A free, open-source education resource
-- Focused on practical, hands-on learning
-- Designed for beginners and intermediate learners
-- Built with community contributions in mind
+Goblin Quantum Lab is a free, open-source education resource focused on practical, hands-on learning. It is designed for beginners and intermediate learners, built with community contributions in mind.
 
 ## What This Project Is Not
 
-- An accredited university or certification provider
-- A production research system
-- A paid learning management system (LMS)
-- An official credential issuer
+This project is not an accredited university or certification provider, a production research system, a paid learning management system (LMS), or an official credential issuer. Formal certificates are not currently issued. Future course materials may be expanded, revised, or migrated to another platform.
 
 **Important:** Formal certificates are not currently issued. Future course materials may be expanded, revised, or migrated to another platform.
 
@@ -47,22 +35,15 @@ Choose your path:
 
 ## Free and Open-Source
 
-Goblin Quantum Lab is built on free and open-source principles:
-
-- **Code**: Licensed under MIT
-- **Educational Content**: Licensed under Creative Commons Attribution-ShareAlike 4.0 International
-- **Tools**: Uses free, open-source software and platforms
-- **Community**: Contributions are welcome and encouraged
+Goblin Quantum Lab is built on free and open-source principles. Our code is licensed under MIT, and educational content is licensed under Creative Commons Attribution-ShareAlike 4.0 International. We use free, open-source software and platforms, and community contributions are welcome and encouraged.
 
 ## Contributing
 
-We welcome contributions from educators, developers, and quantum enthusiasts. See our [Contributing Guide](/docs/contributing) for details on how to get involved.
+We welcome contributions from educators, developers, and quantum enthusiasts. See our [Contributing Guide](/docs/CONTRIBUTING) for details on how to get involved.
 
 ## License
 
-- Code and scripts: MIT License
-- Educational content: Creative Commons Attribution-ShareAlike 4.0 International
-- Project identity and branding: See [Brand Usage](/docs/brand-usage) for guidelines
+Code and scripts are under the MIT License. Educational content is under Creative Commons Attribution-ShareAlike 4.0 International. For project identity and branding, please refer to [Brand Usage](/docs/BRAND_USAGE) for guidelines.
 
 ---
 

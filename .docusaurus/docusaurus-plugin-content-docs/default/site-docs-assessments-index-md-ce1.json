@@ -1,7 +1,7 @@
 {
   "id": "assessments/index",
-  "title": "Assessments",
-  "description": "Welcome to the Assessments section. Here you'll find competency checks designed to verify your understanding of quantum computing concepts and track your progress through the learning pathways.",
+  "title": "Assessments Overview",
+  "description": "This is the overview page for Assessments.",
   "source": "@site/docs/assessments/index.md",
   "sourceDirName": "assessments",
   "slug": "/assessments/",
@@ -11,14 +11,11 @@
   "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/assessments/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 5,
-  "frontMatter": {
-    "sidebar_position": 5
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Practical Labs",
-    "permalink": "/goblin-quantum-lab/docs/labs/"
+    "title": "Lab Setup Guide",
+    "permalink": "/goblin-quantum-lab/docs/labs/setup"
   },
   "next": {
     "title": "Report Writing",

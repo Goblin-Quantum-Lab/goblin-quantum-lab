@@ -125,7 +125,11 @@ const config = {
               },
               {
                 label: 'Contributing',
-                to: '/docs/contributing',
+                to: '/docs/CONTRIBUTING',
+              },
+              {
+                label: 'Brand Usage',
+                to: '/docs/BRAND_USAGE',
               },
             ],
           },

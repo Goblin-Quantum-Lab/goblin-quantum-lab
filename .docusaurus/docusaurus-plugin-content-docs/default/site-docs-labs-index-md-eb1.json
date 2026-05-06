@@ -1,7 +1,7 @@
 {
   "id": "labs/index",
-  "title": "Practical Labs",
-  "description": "Welcome to the Practical Labs section. Here you'll find hands-on experiments designed to reinforce your understanding of quantum computing concepts through simulation and experimentation.",
+  "title": "Labs Overview",
+  "description": "This is the overview page for Labs.",
   "source": "@site/docs/labs/index.md",
   "sourceDirName": "labs",
   "slug": "/labs/",
@@ -11,17 +11,14 @@
   "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/labs/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
-  "frontMatter": {
-    "sidebar_position": 4
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quantum Foundations",
+    "title": "Quantum Foundations Overview",
     "permalink": "/goblin-quantum-lab/docs/quantum-foundations/"
   },
   "next": {
-    "title": "Assessments",
-    "permalink": "/goblin-quantum-lab/docs/assessments/"
+    "title": "Lab FAQ",
+    "permalink": "/goblin-quantum-lab/docs/labs/faq"
   }
 }

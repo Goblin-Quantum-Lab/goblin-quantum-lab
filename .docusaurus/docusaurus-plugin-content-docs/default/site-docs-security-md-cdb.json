@@ -1,0 +1,24 @@
+{
+  "id": "SECURITY",
+  "title": "Security Policy",
+  "description": "- Do not submit secrets or credentials.",
+  "source": "@site/docs/SECURITY.md",
+  "sourceDirName": ".",
+  "slug": "/SECURITY",
+  "permalink": "/goblin-quantum-lab/docs/SECURITY",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Brand Usage",
+    "permalink": "/goblin-quantum-lab/docs/BRAND_USAGE"
+  },
+  "next": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "permalink": "/goblin-quantum-lab/docs/faq"
+  }
+}

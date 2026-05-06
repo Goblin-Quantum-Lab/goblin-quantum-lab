@@ -1,7 +1,7 @@
 {
   "id": "learning-pathways/index",
-  "title": "Learning Pathways",
-  "description": "Goblin Quantum Lab offers structured learning pathways designed to take you from quantum computing fundamentals to advanced topics. Each pathway combines theory, practical labs, and assessments.",
+  "title": "Learning Pathways Overview",
+  "description": "This is the overview page for Learning Pathways.",
   "source": "@site/docs/learning-pathways/index.md",
   "sourceDirName": "learning-pathways",
   "slug": "/learning-pathways/",
@@ -11,17 +11,14 @@
   "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/learning-pathways/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
-  "frontMatter": {
-    "sidebar_position": 2
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Goblin Quantum Lab",
     "permalink": "/goblin-quantum-lab/docs/intro"
   },
   "next": {
-    "title": "Quantum Foundations",
+    "title": "Quantum Foundations Overview",
     "permalink": "/goblin-quantum-lab/docs/quantum-foundations/"
   }
 }

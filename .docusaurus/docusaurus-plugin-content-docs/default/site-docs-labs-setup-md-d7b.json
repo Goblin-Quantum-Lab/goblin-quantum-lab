@@ -1,0 +1,24 @@
+{
+  "id": "labs/setup",
+  "title": "Lab Setup Guide",
+  "description": "This guide provides instructions for setting up your local environment to run the Goblin Quantum Lab practical sessions.",
+  "source": "@site/docs/labs/setup.md",
+  "sourceDirName": "labs",
+  "slug": "/labs/setup",
+  "permalink": "/goblin-quantum-lab/docs/labs/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/labs/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lab FAQ",
+    "permalink": "/goblin-quantum-lab/docs/labs/faq"
+  },
+  "next": {
+    "title": "Assessments Overview",
+    "permalink": "/goblin-quantum-lab/docs/assessments/"
+  }
+}

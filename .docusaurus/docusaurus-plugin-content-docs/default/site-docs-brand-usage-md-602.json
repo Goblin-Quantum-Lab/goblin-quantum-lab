@@ -1,0 +1,24 @@
+{
+  "id": "BRAND_USAGE",
+  "title": "Brand Usage",
+  "description": "- The project name and visual identity may not be used to impersonate the project.",
+  "source": "@site/docs/BRAND_USAGE.md",
+  "sourceDirName": ".",
+  "slug": "/BRAND_USAGE",
+  "permalink": "/goblin-quantum-lab/docs/BRAND_USAGE",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/BRAND_USAGE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing",
+    "permalink": "/goblin-quantum-lab/docs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Security Policy",
+    "permalink": "/goblin-quantum-lab/docs/SECURITY"
+  }
+}

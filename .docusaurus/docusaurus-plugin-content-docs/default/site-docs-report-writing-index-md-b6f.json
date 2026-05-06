@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Assessments",
+    "title": "Assessments Overview",
     "permalink": "/goblin-quantum-lab/docs/assessments/"
   },
   "next": {
-    "title": "Safety and Experiment Discipline",
-    "permalink": "/goblin-quantum-lab/docs/safety/"
+    "title": "Report Examples",
+    "permalink": "/goblin-quantum-lab/docs/report-writing/examples"
   }
 }

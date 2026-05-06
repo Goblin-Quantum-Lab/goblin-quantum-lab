@@ -1,24 +1,36 @@
 {
-  "/goblin-quantum-lab/docs-c5d": {
+  "/goblin-quantum-lab/docs-194": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/goblin-quantum-lab/docs-1e7": {
+  "/goblin-quantum-lab/docs-53a": {
     "__comp": "a7bd4aaa",
     "__props": "322b191d"
   },
-  "/goblin-quantum-lab/docs-379": {
+  "/goblin-quantum-lab/docs-fdf": {
     "__comp": "a94703ab"
   },
   "/goblin-quantum-lab/docs/assessments/-6fc": {
     "__comp": "17896441",
     "content": "ce12a471"
   },
-  "/goblin-quantum-lab/docs/assessments/-2e8": {
+  "/goblin-quantum-lab/docs/BRAND_USAGE-744": {
     "__comp": "17896441",
-    "content": "f97451af"
+    "content": "6029baef"
+  },
+  "/goblin-quantum-lab/docs/CODE_OF_CONDUCT-d0f": {
+    "__comp": "17896441",
+    "content": "c4395b35"
+  },
+  "/goblin-quantum-lab/docs/CONTRIBUTING-993": {
+    "__comp": "17896441",
+    "content": "8d193b98"
+  },
+  "/goblin-quantum-lab/docs/faq-509": {
+    "__comp": "17896441",
+    "content": "0480b142"
   },
   "/goblin-quantum-lab/docs/intro-302": {
     "__comp": "17896441",
@@ -28,17 +40,17 @@
     "__comp": "17896441",
     "content": "eb1b2963"
   },
-  "/goblin-quantum-lab/docs/labs/-319": {
+  "/goblin-quantum-lab/docs/labs/faq-44f": {
     "__comp": "17896441",
-    "content": "47079ab4"
+    "content": "fa49bf8c"
+  },
+  "/goblin-quantum-lab/docs/labs/setup-4ba": {
+    "__comp": "17896441",
+    "content": "d7bca947"
   },
   "/goblin-quantum-lab/docs/learning-pathways/-e67": {
     "__comp": "17896441",
     "content": "0b3e3034"
-  },
-  "/goblin-quantum-lab/docs/learning-pathways/-f75": {
-    "__comp": "17896441",
-    "content": "4c2fa703"
   },
   "/goblin-quantum-lab/docs/quantum-foundations/-9df": {
     "__comp": "17896441",
@@ -48,17 +60,33 @@
     "__comp": "17896441",
     "content": "b6fd2df0"
   },
-  "/goblin-quantum-lab/docs/report-writing/-381": {
+  "/goblin-quantum-lab/docs/report-writing/examples-61a": {
     "__comp": "17896441",
-    "content": "f0b1b000"
+    "content": "1506503a"
+  },
+  "/goblin-quantum-lab/docs/report-writing/templates-fc8": {
+    "__comp": "17896441",
+    "content": "b94ab34c"
+  },
+  "/goblin-quantum-lab/docs/report-writing/tips-a33": {
+    "__comp": "17896441",
+    "content": "2ce7717e"
   },
   "/goblin-quantum-lab/docs/safety/-5a7": {
     "__comp": "17896441",
     "content": "d3e0357c"
   },
-  "/goblin-quantum-lab/docs/safety/-c0e": {
+  "/goblin-quantum-lab/docs/safety/conduct-49c": {
     "__comp": "17896441",
-    "content": "49a14373"
+    "content": "4a96d700"
+  },
+  "/goblin-quantum-lab/docs/safety/reproducibility-b98": {
+    "__comp": "17896441",
+    "content": "b6135f85"
+  },
+  "/goblin-quantum-lab/docs/SECURITY-a4a": {
+    "__comp": "17896441",
+    "content": "cdb8836b"
   },
   "/goblin-quantum-lab/-78a": {
     "__comp": "c4f5d8e4",

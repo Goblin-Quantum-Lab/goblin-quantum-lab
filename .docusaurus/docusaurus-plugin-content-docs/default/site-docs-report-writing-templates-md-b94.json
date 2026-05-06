@@ -1,0 +1,24 @@
+{
+  "id": "report-writing/templates",
+  "title": "Report Templates",
+  "description": "This section provides various templates to help you structure your quantum computing reports effectively.",
+  "source": "@site/docs/report-writing/templates.md",
+  "sourceDirName": "report-writing",
+  "slug": "/report-writing/templates",
+  "permalink": "/goblin-quantum-lab/docs/report-writing/templates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/report-writing/templates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Report Examples",
+    "permalink": "/goblin-quantum-lab/docs/report-writing/examples"
+  },
+  "next": {
+    "title": "Report Writing Tips",
+    "permalink": "/goblin-quantum-lab/docs/report-writing/tips"
+  }
+}

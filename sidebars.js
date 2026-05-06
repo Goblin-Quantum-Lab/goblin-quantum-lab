@@ -11,53 +11,64 @@
 
 // @ts-check
 
-/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+/** @type {import("@docusaurus/plugin-content-docs").SidebarsConfig} */
 const sidebars = {
-  // But you can create a sidebar manually
   tutorialSidebar: [
-    'intro',
+    "intro",
     {
-      label: 'Learning Pathways',
-      type: 'category',
+      type: "category",
+      label: "Learning Pathways",
       items: [
-        'learning-pathways/index',
+        "learning-pathways/index",
       ],
     },
     {
-      label: 'Quantum Foundations',
-      type: 'category',
+      type: "category",
+      label: "Quantum Foundations",
       items: [
-        'quantum-foundations/index',
+        "quantum-foundations/index",
       ],
     },
     {
-      label: 'Labs',
-      type: 'category',
+      type: "category",
+      label: "Labs",
       items: [
-        'labs/index',
+        "labs/index",
+        "labs/faq",
+        "labs/setup",
       ],
     },
     {
-      label: 'Assessments',
-      type: 'category',
+      type: "category",
+      label: "Assessments",
       items: [
-        'assessments/index',
+        "assessments/index",
       ],
     },
     {
-      label: 'Report Writing',
-      type: 'category',
+      type: "category",
+      label: "Report Writing",
       items: [
-        'report-writing/index',
+        "report-writing/index",
+        "report-writing/examples",
+        "report-writing/templates",
+        "report-writing/tips",
       ],
     },
     {
-      label: 'Safety',
-      type: 'category',
+      type: "category",
+      label: "Safety",
       items: [
-        'safety/index',
+        "safety/index",
+        "safety/conduct",
+        "safety/reproducibility",
       ],
     },
+    "CODE_OF_CONDUCT",
+    "CONTRIBUTING",
+    "BRAND_USAGE",
+    "SECURITY",
+    "faq",
   ],
 };
 

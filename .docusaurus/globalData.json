@@ -16,12 +16,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "assessments/README",
-              "path": "/goblin-quantum-lab/docs/assessments/"
+              "id": "BRAND_USAGE",
+              "path": "/goblin-quantum-lab/docs/BRAND_USAGE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CODE_OF_CONDUCT",
+              "path": "/goblin-quantum-lab/docs/CODE_OF_CONDUCT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CONTRIBUTING",
+              "path": "/goblin-quantum-lab/docs/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/goblin-quantum-lab/docs/faq",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
               "path": "/goblin-quantum-lab/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "labs/faq",
+              "path": "/goblin-quantum-lab/docs/labs/faq",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -30,8 +51,9 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "labs/README",
-              "path": "/goblin-quantum-lab/docs/labs/"
+              "id": "labs/setup",
+              "path": "/goblin-quantum-lab/docs/labs/setup",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "learning-pathways/index",
@@ -39,12 +61,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "learning-pathways/README",
-              "path": "/goblin-quantum-lab/docs/learning-pathways/"
-            },
-            {
               "id": "quantum-foundations/index",
               "path": "/goblin-quantum-lab/docs/quantum-foundations/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "report-writing/examples",
+              "path": "/goblin-quantum-lab/docs/report-writing/examples",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,8 +76,19 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "report-writing/README",
-              "path": "/goblin-quantum-lab/docs/report-writing/"
+              "id": "report-writing/templates",
+              "path": "/goblin-quantum-lab/docs/report-writing/templates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "report-writing/tips",
+              "path": "/goblin-quantum-lab/docs/report-writing/tips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "safety/conduct",
+              "path": "/goblin-quantum-lab/docs/safety/conduct",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "safety/index",
@@ -62,8 +96,14 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "safety/README",
-              "path": "/goblin-quantum-lab/docs/safety/"
+              "id": "safety/reproducibility",
+              "path": "/goblin-quantum-lab/docs/safety/reproducibility",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SECURITY",
+              "path": "/goblin-quantum-lab/docs/SECURITY",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

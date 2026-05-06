@@ -1,7 +1,7 @@
 {
   "id": "safety/index",
-  "title": "Safety and Experiment Discipline",
-  "description": "Welcome to the Safety section. Here you'll find guidelines for conducting quantum computing experiments safely, ethically, and with scientific rigor.",
+  "title": "Safety Overview",
+  "description": "This is the overview page for Safety and main safety page.",
   "source": "@site/docs/safety/index.md",
   "sourceDirName": "safety",
   "slug": "/safety/",
@@ -11,13 +11,14 @@
   "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/safety/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 7,
-  "frontMatter": {
-    "sidebar_position": 7
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Report Writing",
-    "permalink": "/goblin-quantum-lab/docs/report-writing/"
+    "title": "Report Writing Tips",
+    "permalink": "/goblin-quantum-lab/docs/report-writing/tips"
+  },
+  "next": {
+    "title": "Code of Conduct for Labs",
+    "permalink": "/goblin-quantum-lab/docs/safety/conduct"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "report-writing/tips",
+  "title": "Report Writing Tips",
+  "description": "This section provides practical tips and best practices to help you write clear, concise, and effective quantum computing reports.",
+  "source": "@site/docs/report-writing/tips.md",
+  "sourceDirName": "report-writing",
+  "slug": "/report-writing/tips",
+  "permalink": "/goblin-quantum-lab/docs/report-writing/tips",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/report-writing/tips.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Report Templates",
+    "permalink": "/goblin-quantum-lab/docs/report-writing/templates"
+  },
+  "next": {
+    "title": "Safety Overview",
+    "permalink": "/goblin-quantum-lab/docs/safety/"
+  }
+}

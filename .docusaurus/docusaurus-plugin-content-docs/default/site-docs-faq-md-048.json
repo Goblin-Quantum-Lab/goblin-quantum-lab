@@ -1,0 +1,20 @@
+{
+  "id": "faq",
+  "title": "Frequently Asked Questions (FAQ)",
+  "description": "This section addresses common questions about Goblin Quantum Lab, its mission, content, and how to get involved.",
+  "source": "@site/docs/faq.md",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/goblin-quantum-lab/docs/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/tree/main/docs/faq.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Policy",
+    "permalink": "/goblin-quantum-lab/docs/SECURITY"
+  }
+}
