@@ -46,3 +46,9 @@ Support Subjects remain open to everyone. Full main pathway coursework is not st
 [Request enrollment](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new?template=course-enrollment.yml)
 
 If the direct form does not open correctly, use the [issue chooser](https://github.com/Goblin-Quantum-Lab/goblin-quantum-lab/issues/new/choose).
+
+## Approved Learner Access
+
+Approved learners can access released coursework through the private enrolled learner area.
+
+[Access enrolled course area](https://github.com/atholai-aegis-labs/gql-qf101-enrolled/tree/main/docs/qf-101/course-player)
