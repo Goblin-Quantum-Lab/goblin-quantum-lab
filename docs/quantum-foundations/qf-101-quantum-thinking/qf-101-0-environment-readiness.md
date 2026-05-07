@@ -51,4 +51,4 @@ If the direct form does not open correctly, use the [issue chooser](https://gith
 
 Approved learners can access released coursework through the private enrolled learner area.
 
-[Access enrolled course area](https://github.com/atholai-aegis-labs/gql-qf101-enrolled/tree/main/docs/qf-101/course-player)
+[Access enrolled course area](https://github.com/Goblin-Quantum-Classroom/qf-101-enrolled)
